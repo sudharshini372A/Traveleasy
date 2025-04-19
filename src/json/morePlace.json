@@ -1,0 +1,1342 @@
+{
+    "places": [
+        [
+            {
+                "title": "BACKWATERS",
+                "name": "Veeranam Lake",
+                "description": "Veeranam Lake, situated in Tamil Nadu's Cuddalore district, is a historic reservoir...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/back+water/veeranam-lake.webp"
+            },
+            {
+                "name": "Upper Bhavani Lake",
+                "description": "Upper Bhavani Lake, situated in the Nilgiris district of Tamil Nadu, is a serene reservoir...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/back+water/Upper+Bhavani+Lake.webp"
+            },
+            {
+                "name": "Pykara Lake",
+                "description": "Pykara, located approximately 20 kilometers from Ooty in Tamil Nadu, is a...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/back+water/Pykara+lake.webp"
+            },
+            {
+                "name": "Pichavaram",
+                "description": "Pichavaram, located in Tamil Nadu, India, is renowned for its stunning mangrove forests...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/back+water/Pichavaram.webp"
+            },
+            {
+                "name": "Pazhaverkadu Lake",
+                "description": "Pazhaverkadu, also known as Pulicat, is a serene coastal town in Tamil Nadu, famed for...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/back+water/Pazhaverkadu+Lake.webp"
+            },
+            {
+                "name": "Muthukadu Lake",
+                "description": "Muthukadu Lake, near Chennai in Tamil Nadu, is a picturesque backwater destination known...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/back+water/Muttukadu+Backwater.webp"
+            },
+            {
+                "name": "Kodiveri Dam",
+                "description": "Kodiveri Dam, located in Tamil Nadu’s Erode district, is a picturesque spot known for...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/back+water/Kodiveri+Dam.webp"
+            },
+            {
+                "name": "Emerald Lake",
+                "description": "Emerald Lake, located in the serene Nilgiris district of Tamil Nadu, is a pristine...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/back+water/Emerald+Lake.webp"
+            },
+            {
+                "name": "Amaravathi Dam",
+                "description": "Amaravathi Dam, located in Tamil Nadu’s Tiruppur district, is a captivating site...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/back+water/Amaravathi+Dam.webp"
+            },
+            {
+                "name": "Aliyar Dam",
+                "description": "Aliyar Dam, nestled at the foothills of the Anamalai Hills in Tamil Nadu, is a...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/back+water/Aliyar+Dam.webp"
+            }
+        ],
+        [
+            {
+                "title": "BEACH",
+                "name": "Vellankani Beach",
+                "description": "Vellankani Beach, located near the famous Velankanni Church in Tamil Nadu, is a beautiful...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/VELANKANNI+BEACH.webp"
+            },
+            {
+                "name": "Vada Nemili Beach",
+                "description": "Vada Nemili Beach, located near Mahabalipuram along the East Coast Road, is a hidden gem...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Vada+Nemili+Beach.webp"
+            },
+            {
+                "name": "Tuticorin Roach Beach",
+                "description": "Tuticorin Roach Beach, located near the port town of Tuticorin in Tamil Nadu, is a...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Tuticorin+Roach+Beach.webp"
+            },
+            {
+                "name": "Tuticorin Harbour Beach",
+                "description": "Vada Nemili Beach, located near Mahabalipuram along the East Coast Road, is a hidden gem...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Tuticorin+Harbour+Beach.webp"
+            },
+            {
+                "name": "Thiruvanmiyur Beach",
+                "description": "Thiruvanmiyur Beach, a serene coastline in Chennai, offers a peaceful...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Thiruvanmiyur+Beach.webp"
+            },
+            {
+                "name": "Tharangambadi Beach",
+                "description": "Tharangambadi Beach, located in Tamil Nadu, is a serene and picturesque coastal destination...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Tharangambadi+Beach.webp"
+            },
+            {
+                "name": "Serenity Beach",
+                "description": "Serenity Beach, located near Pondicherry, is a tranquil and pristine beach known for its ...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/serenity-beach.webp"
+            },
+            {
+                "name": "Santhome Beach",
+                "description": "Santhome Beach in Chennai is a serene coastal destination named after the historic Santhom...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Santhome+Beach.webp"
+            },
+            {
+                "name": "Sanguthurai Beach",
+                "description": "Sanguthurai Beach, located in Tamil Nadu, is a peaceful and lesser-known coastal...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Sanguthurai+Beach.webp"
+            },
+            {
+                "name": "Sangumal Beach",
+                "description": "Sangumal Beach, located near the town of Muthupet in Tamil Nadu, is a secluded coastal...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Sangumal+Beach.webp"
+            },
+            {
+                "name": "Rameswaram Beach",
+                "description": "Rameswaram Beach, located in the coastal town of Rameswaram in Tamil Nadu, is known for its...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/RAMESWARAM+BEACH.webp"
+            },
+            {
+                "name": "Promenade Beach",
+                "description": "Promenade Beach, located in the heart of Pondicherry, offers a beautiful blend of scenic ...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Promenade+beach.webp"
+            },
+            {
+                "name": "Poompuhar Beach",
+                "description": "Poompuhar Beach, located in the town of Poompuhar in Tamil Nadu, is a serene and beautiful...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/POOMBUHAR+BEACH.webp"
+            },
+            {
+                "name": "Paradise Beach",
+                "description": "Paradise Beach, located near Pondicherry, is a hidden gem known for its pristine, untouched...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Paradise+Beach.webp"
+            },
+            {
+                "name": "Pallava Beach",
+                "description": "Pallava Beach, situated along the East Coast Road near Chennai, is a tranquil and...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/pallava+beach.webp"
+            },
+            {
+                "name": "Nagore Beach",
+                "description": "Nagore Beach, situated near the town of Nagore in Tamil Nadu, is a serene and less-crowded...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Nagore+Beach.webp"
+            },
+            {
+                "name": "Nagapattinam Beach",
+                "description": "Nagapattinam Beach, located in Tamil Nadu, is a serene coastal destination known for its...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/NAGAPPATTINAM++BEACH.webp"
+            },
+            {
+                "name": "Muttom Beach",
+                "description": "Muttom Beach, located in Tamil Nadu near the town of Kanyakumari, is a tranquil coastal...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Muttom+Beach.webp"
+            },
+            {
+                "name": "Marina Beach",
+                "description": "Marina Beach in Chennai is India’s longest urban beach, stretching along the...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Marina+Beach.webp"
+            },
+            {
+                "name": "Manora Beach",
+                "description": "Manora Beach, located near the historical Manora Fort in Tamil Nadu, offers a serene and...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Manora+Beach.webp"
+            },
+            {
+                "name": "Manappad Beach",
+                "description": "Manappad Beach, located in Tamil Nadu, is a hidden coastal gem known for its natural beauty...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Manappad-Beach.webp"
+            },
+            {
+                "name": "Kunthukal Beach",
+                "description": "Kunthukal Beach, located near the village of Kunthukal in Tamil Nadu, is a hidden coastal...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/kunthukal-beach.webp"
+            },
+            {
+                "name": "Kovalam Beach",
+                "description": "Kovalam Beach, located near Chennai, is a serene and picturesque destination known...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Kovalam+Beach.webp"
+            },
+            {
+                "name": "Kodiyakkarai Beach",
+                "description": "Kodiyakkarai Beach, located in the southern part of Tamil Nadu, is a hidden gem known for...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Kodiyakkarai+Beach.webp"
+            },
+            {
+                "name": "Kasimedu Beach",
+                "description": "Kasimedu Beach, situated near Chennai's fishing harbor, offers a unique blend of coastal...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Kasimedu+Beach.webp"
+            },
+            {
+                "name": "Kanyakumari Beach",
+                "description": "Kanyakumari Beach, located at the southernmost tip of India, is where the Arabian Sea, the...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Kanykumari+Berach.webp"
+            },
+            {
+                "name": "Golden Star Beach",
+                "description": "Golden Star Beach, located in the outskirts of Chennai, is a peaceful coastal retreat known...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Golden+Star.webp"
+            },
+            {
+                "name": "Edward Elliot's Beach",
+                "description": "Edward Elliot's Beach, located in Chennai's upscale Besant Nagar, offers a...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Edward-Elliots-Beach.webp"
+            },
+            {
+                "name": "Dhanushkodi Beach",
+                "description": "Dhanushkodi Beach, located at the southern tip of Tamil Nadu, is a unique and...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/DHANUSHKODI+BEACH.webp"
+            },
+            {
+                "name": "Auroville Beach",
+                "description": "Auroville Beach, located near the Auroville township in Pondicherry, is a serene and...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/Auroville+Beach.webp"
+            },
+            {
+                "name": "Agni Theertham Beach",
+                "description": "Agni Theertham Beach, located near the famous Ramanathaswamy Temple in Rameswaram...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/BEACH/agni-theertham-beach.webp"
+            }
+        ],
+        [
+            {
+                "title": "FORTS",
+                "name": "Velunachiyar Fort",
+                "description": "Velunachiyar Fort, located in the Sivaganga district of Tamil Nadu, is a historical...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Fort/VELUNACHIYAR+FORT.webp"
+            },
+            {
+                "name": "Vellore Fort",
+                "description": "Vellore Fort, located in the city of Vellore, Tamil Nadu, is a historically...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Fort/VELLORE+FORT.webp"
+            },
+            {
+                "name": "Trichy Malaikkottai",
+                "description": "Trichy Malaikkottai, also known as the Malai Kottai Fort, is located in the...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Fort/TRICHY+MALAIKKOTTAI.webp"
+            },
+            {
+                "name": "Thirumaiyam Fort",
+                "description": "Thirumaiyam Fort, located in the southern part of Tamil Nadu,is a historical fort...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Fort/THIRUMAIYAM+FORT.webp"
+            },
+            {
+                "name": "Tenkarai Fort",
+                "description": "Tenkarai Fort, located in the Tirunelveli district of Tamil Nadu, is an ancient...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Fort/THENKARAI+FORT.webp"
+            },
+            {
+                "name": "Tharangambadi Fort",
+                "description": "Tharangambadi Fort, located in the coastal town of Tharangambadi in Tamil Nadu, is...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Fort/THARANGAMPADI+FORT.webp"
+            },
+            {
+                "name": "Sangagiri Fort",
+                "description": "Sangagiri Fort, located in the Salem district of Tamil Nadu, is a historic fort...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Fort/SANKAGIRI+FORT.webp"
+            },
+            {
+                "name": "Krishnagiri Fort",
+                "description": "Krishnagiri Fort, located in the town of Krishnagiri, Tamil Nadu, is a historic...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Fort/KRISHNAGIRI+FORT.webp"
+            },
+            {
+                "name": "Kalamburan Fort",
+                "description": "Kalamburan Fort, located in the Dindigul district of Tamil Nadu, is a historical...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Fort/KALAMBURAN+FORT.webp"
+            },
+            {
+                "name": "Gingee Queen Fort",
+                "description": "Gingee Queen Fort, located in the Gingee region of Tamil Nadu, is a historic fort...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Fort/gingee+queen+fort.webp"
+            },
+            {
+                "name": "Durgam Fort",
+                "description": "Durgam Fort, located in the Tamil Nadu region, is an ancient hilltop fort known for...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Fort/DURGAM+FORT.webp"
+            },
+            {
+                "name": "Dindigul Fort",
+                "description": "Dindigul Fort, located in the town of Dindigul, Tamil Nadu, is an ancient fortress...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Fort/DINDUGUL+FORT.webp"
+            },
+            {
+                "name": "Arcot Fort",
+                "description": "Arcot Fort, located in the town of Arcot in Tamil Nadu, is a historical landmark...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Fort/ARCOT+FORT.webp"
+            }
+        ],
+        [
+            {
+                "title": "HERITAGE",
+                "name": "Vellore Fort",
+                "description": "Vellore Fort, located in Tamil Nadu, is a 16th-century architectural marvel built by...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Heritage/vellore+fort.webp"
+            },
+            {
+                "name": "Rock-Cut Cave",
+                "description": "The Rock-Cut Cave in Thirumalapuram, located near Kanchipuram, Tamil Nadu, is an ancient...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Heritage/thirumalapuram+Rockcut+cavejpg.webp"
+            },
+            {
+                "name": "Tirumalai",
+                "description": "Tirumalai, located near Thiruvannamalai in Tamil Nadu, is a sacred hill...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Heritage/Thirumalai.webp"
+            },
+            {
+                "name": "Thanjavur Big Temple",
+                "description": "The Thanjavur Big Temple, also known as Brihadeeswarar Temple, is a UNESCO World Heritage...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Heritage/Thanjavur+Big+Temple.webp"
+            },
+            {
+                "name": "Padmanabhapuram Palace",
+                "description": "Padmanabhapuram Palace, located in Kanniyakumari district, Tamil Nadu, is a stunning...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Heritage/Padmanabhapuram.webp"
+            },
+            {
+                "name": "Nilgiri Mountain Railway",
+                "description": "The Nilgiri Mountain Railway, a UNESCO World Heritage Site, is a marvel of engineering...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Heritage/Niligiri+Mountain+Railway.webp"
+            },
+            {
+                "name": "Meenakshi Amman Temple",
+                "description": "The Meenakshi Amman Temple in Madurai, Tamil Nadu, is a stunning Dravidian-style temple...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Heritage/meenakshi+amman+temple.webp"
+            },
+            {
+                "name": "Margabandeswarar Temple",
+                "description": "Margabandeswarar Temple, located in Virinjipuram near Vellore, Tamil Nadu, is a...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Heritage/margabandeswarar-temple.webp"
+            },
+            {
+                "name": "Mamallapuram",
+                "description": "Mamallapuram, a historic town in Chengalpattu, Tamil Nadu, is renowned for its...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Heritage/Mamallapuram.webp"
+            },
+            {
+                "name": "Rock-Cut Temple",
+                "description": "The Rock-Cut Temple in Malayadipatti, Tamil Nadu, is a remarkable ancient structure...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Heritage/MalayadipattiVishnu.webp"
+            },
+            {
+                "name": "Gingee Fort",
+                "description": "Gingee Fort, located in Viluppuram, Tamil Nadu, is a historic hill fort built during...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Heritage/Gingee+Fort.webp"
+            },
+            {
+                "name": "Gangaikonda Cholapuram",
+                "description": "Gangaikonda Cholapuram, located in Ariyalur, Tamil Nadu, is a UNESCO World Heritage Site...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Heritage/Gangaikonda+cholapuram.webp"
+            },
+            {
+                "name": "Nataraja Temple",
+                "description": "The Nataraja Temple in Chidambaram, Tamil Nadu, is a magnificent shrine dedicated to Lord...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Heritage/chidambaram-nataraja.webp"
+            },
+            {
+                "name": "Airavatesvara Temple",
+                "description": "Airavatesvara Temple, located in Darasuram, Tamil Nadu, is a UNESCO World Heritage Site...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Heritage/Airavatesvara.webp"
+            }
+        ],
+        [
+            {
+                "title": "HIKING",
+                "name": "Yannai Malai",
+                "description": "Yannai Malai, located in the southern part of Tamil Nadu, is a lesser-known hill offering natural beauty and tranquility...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/YANNAI+MALAI.webp"
+            },
+            {
+                "name": "Velligiri Malai",
+                "description": "Velligiri Malai, also known as Velliangiri Hills, is a mountain range located in Tamil Nadu, known for its natural beauty ",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/VELLIANGIRI+MALAI.webp"
+            },
+            {
+                "name": "Vasimalaiyan",
+                "description": "Vasimalaiyan, located in the southern part of Tamil Nadu, is a serene hill station that offers a perfect blend of nature and spirituality...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/Vasimalaiyan.webp"
+            },
+            {
+                "name": "Thoranamalai",
+                "description": "Thoranamalai, situated in the southern part of Tamil Nadu, is a scenic hill known for its tranquility and natural beauty...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/Thoranamalai.webp"
+            },
+            {
+                "name": "Thoppaiyasami Malai",
+                "description": "Thoppaiyasami Malai, located near Dindigul in Tamil Nadu, is a beautiful hillock that attracts visitors seeking tranquility...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/thoppaiyasami+malai.webp"
+            },
+            {
+                "name": "Thiruvannamalai Hills",
+                "description": "Thiruvannamalai Hills, located in Tamil Nadu, are known for their spiritual significance and breathtaking natural beauty...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/Thiruvannamalai.webp"
+            },
+            {
+                "name": "Thidiyan Malai",
+                "description": "Thidiyan Malai, located near Madurai, Tamil Nadu, is a serene hill known for its tranquil atmosphere and spiritual significance...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/THIDIYAN+MALAI.webp"
+            },
+            {
+                "name": "Thavalagiri Malai",
+                "description": "Thavalagiri Malai, located in the Western Ghats of Tamil Nadu, is a serene hill station renowned for its lush greenery...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/Thavalakiri+Malai.webp"
+            },
+            {
+                "name": "Thalamalai",
+                "description": "Thalamalai, situated in the Western Ghats of Tamil Nadu, is a hidden gem offering a tranquil escape for nature lovers...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/Thalamalai.webp"
+            },
+            {
+                "name": "Siddhar Malai",
+                "description": "Siddhar Malai, situated in Karur, Tamil Nadu, is a serene and spiritually significant hill associated with ancient Siddhars...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/Siddhar+malai.webp"
+            },
+            {
+                "name": "Shenbagathoppu",
+                "description": "Shenbagathoppu, located in the Virudhunagar district of Tamil Nadu, is a peaceful village known for its lush greenery and...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/Senpagathoppu.webp"
+            },
+            {
+                "name": "Sathuragiri",
+                "description": "Sathuragiri, a sacred hill located in the Western Ghats of Tamil Nadu, is known for its spiritual significance and scenic...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/SATHURAGIRI.webp"
+            },
+            {
+                "name": "Sanjeevi Malai",
+                "description": "Sanjeevi Malai, a revered hill in Tamil Nadu, is steeped in mythology and spiritual significance. Known for its serene ambiance...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/Sanjeevi+hills.webp"
+            },
+            {
+                "name": "Rangamalai",
+                "description": "Rangamalai, located in Tamil Nadu, is a picturesque hill station known for its rich biodiversity and tranquil ambiance...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/Rangamalai.webp"
+            },
+            {
+                "name": "Pothigai Malai",
+                "description": "Pothigai Malai, located in the Western Ghats of Tamil Nadu, is a revered mountain range known for its scenic beauty...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/POTHIGAI+MALAI.webp"
+            },
+            {
+                "name": "Piranmalai",
+                "description": "Piranmalai, located in the southern part of Tamil Nadu, is a serene hill known for its natural beauty and historical significance...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/PIRANMALAI.webp"
+            },
+            {
+                "name": "Peraiyur Hills",
+                "description": "Peraiyur Hills, located in the southern part of Tamil Nadu, is a hidden gem known for its serene beauty and rich biodiversity...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/Peraiyur+Hill.webp"
+            },
+            {
+                "name": "Paruvathamalai",
+                "description": "Paruvathamalai, also known as the 'King of  Hill' is a serene and scenic hill located in the Eastern Ghats of Tamil Nadu. It is a popular destination...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/Parvathamalai.webp"
+            },
+            {
+                "name": "Othimalai Irumborai",
+                "description": "Othimalai Irumborai is a serene and picturesque hill station nestled in Tamil Nadu, offering breathtaking views and a tranquil atmosphere...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/OTHIMALAI.webp"
+            },
+            {
+                "name": "Marunthuval Malai",
+                "description": "Marunthuval Malai, located near Kanyakumari, is a scenic hilltop famous for its medicinal plants and lush greenery. This mountain...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/marunthuvaazhmalai.webp"
+            },
+            {
+                "name": "Kudummiyan Malai",
+                "description": "Kudummiyan Malai, located in Tamil Nadu, is a lesser-known hill with immense natural beauty and a rich historical backdrop...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/Kudumiyanmalai.webp"
+            },
+            {
+                "name": "Kodangiri Malai",
+                "description": "Kodangiri Malai, located in Tamil Nadu, is a picturesque hill known for its scenic views and serene environment. The hill is a popular...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/kondaragi.webp"
+            },
+            {
+                "name": "Kaalimalai",
+                "description": "Kaalimalai, nestled in the serene district of Kanyakumari, is a tranquil hill known for its lush greenery and spiritual significance...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/KAALI+MALAI.webp"
+            },
+            {
+                "name": "Chithannavasal",
+                "description": "Chithannavasal, located in Pudukkottai, Tamil Nadu, is a remarkable historical site known for its ancient rock-cut temples and...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/chithannavasaL.webp"
+            },
+            {
+                "name": "Bagavathi Malai",
+                "description": "Bagavathi Malai, located in the southern part of Tamil Nadu, is a serene hill station known for its lush greenery and tranquil...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/Bagavathi+Malai.webp"
+            },
+            {
+                "name": "Ayyar Malai",
+                "description": "Ayyar Malai, situated in Tamil Nadu's Karur district, is a popular hill known for its religious and scenic significance. The hill is home...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/AYYAR+MALAI.webp"
+            },
+            {
+                "name": "Annaikal Satha Malai",
+                "description": "Annaikal Satha Malai, located in Kanyakumari district, is a picturesque hill range surrounded by verdant landscapes and lush...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/Annaikal+Satha+malai.webp"
+            },
+            {
+                "name": "Agasthyamalai",
+                "description": "Agasthyamalai, a prominent mountain peak in the Western Ghats, is located on the border of Tamil Nadu and Kerala. It is renowned...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Trekking/AGASTHIYAMALAI.webp"
+            }
+        ],
+        [
+            {
+                "title": "HILLS",
+                "name": "Yercaud",
+                "description": "Yercaud, often called the 'Jewel of the South,' is a picturesque hill station...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/YERCAUD+HILLS.webp"
+            },
+            {
+                "name": "Vathalmali",
+                "description": "Vathalmali is a serene hill station known for its lush forests,cool climate...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/VATHALMALAI.webp"
+            },
+            {
+                "name": "Valparai",
+                "description": "Valparai is a hidden gem known for its tea plantations, cool climate,and...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/valparai+hills+(1).webp"
+            },
+            {
+                "name": "Top Slip",
+                "description": "Top Slip,nestled in the Anamalai Hills of Tamil Nadu,is a popular eco-tourism...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/TOPSLIP.webp"
+            },
+            {
+                "name": "Tamaraikkarai",
+                "description": "Tamaraikkarai,a small village located in the Western Ghats of Tamil Nadu...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/THAMARAIKKARAI.webp"
+            },
+            {
+                "name": "Sirumalai",
+                "description": "Sirumalai, located in the Southern part of India, is a picturesque hill station...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/sirumalai+(2).webp"
+            },
+            {
+                "name": "Ramakkalmedu",
+                "description": "Ramakkalmedu is a beautiful hill station known for its stunning views,cool...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/RAMAKKALMEDU+HILLS.webp"
+            },
+            {
+                "name": "Podimedu",
+                "description": "Podimedu, a tranquil village nestled in the Western Ghats of Tamil Nadu, is known...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/PODIMETTU.webp"
+            },
+            {
+                "name": "Palamathi",
+                "description": "Palamathi is a peaceful village known for its scenic beauty and rich biodiversity...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/Palamathi+Hills.webp"
+            },
+            {
+                "name": "Pachamallai",
+                "description": "Pachamallai, a hidden gem in Tamil Nadu, is known for its lush greenery, tranquil...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/pachaimalai.webp"
+            },
+            {
+                "name": "Ooty",
+                "description": "Ooty, the 'Queen of Hill Stations,'is a stunning retreat in Tamil Nadu’s Nilgiri Hills...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/ooty+hills.webp"
+            },
+            {
+                "name": "Megamalai",
+                "description": "Megamalai Known as the 'High Wavy Mountains,' Megamalai is a serene hill station...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/megamalai.webp"
+            },
+            {
+                "name": "Masinagudi",
+                "description": "Masinagudi, located at the foothills of the Nilgiri Hills in Tamil Nadu, is a peaceful...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/extra+img/image/Masinagudi.jpg"
+            },
+            {
+                "name": "Manjolai",
+                "description": "Manjolai, located in the Western Ghats of Tamil Nadu, is a serene hill station famous...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/MANJOLAI+HILLS.webp"
+            },
+            {
+                "name": "Kotagiri",
+                "description": "Kotagiri, a scenic hill station located in the Nilgiri Hills of Tamil Nadu, is known...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/kotagiri.webp"
+            },
+            {
+                "name": "Kolukkumalai",
+                "description": "Kolukkumalai, located in the Western Ghats of Tamil Nadu, is renowned for being one...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/kolukku+malai.webp"
+            },
+            {
+                "name": "Kolli",
+                "description": "Kolli Hills is a pristine hill station known for its lush greenery, waterfalls...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/kolli+hills2.webp"
+            },
+            {
+                "name": "Kodaikkanal",
+                "description": "Mannavanur and Kookal, located near Kodaikanal, are serene and lesser-known villages...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/kodaikkanal+(1).webp"
+            },
+            {
+                "name": "Kinnarkorai",
+                "description": "Kinnarkorai, a hidden gem in the Western Ghats of Tamil Nadu,is a picturesque village...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/KINNARKORAI.webp"
+            },
+            {
+                "name": "Kanchanagiri",
+                "description": "Kanchanagiri Hills, located in the Western Ghats of Tamil Nadu,is a scenic and serene...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/kanchanagiri-hills.webp"
+            },
+            {
+                "name": "Kalvarayan",
+                "description": "Kalvarayan Malai, located in the Eastern Ghats of Tamil Nadu, is a tranquil hill range...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/kalvarayan+hill.webp"
+            },
+            {
+                "name": "Kadampur",
+                "description": "Kadampur Malai, situated in the Western Ghats of Tamil Nadu, is a serene hill station...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/KADAMBUR+HILLS.webp"
+            },
+            {
+                "name": "Javathu Malai",
+                "description": "Javathu Malai, a serene hill range located in Tamil Nadu, is known for its lush...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/javathu+malai.webp"
+            },
+            {
+                "name": "Gudalur",
+                "description": "Gudalur, located in the Nilgiri Hills of Tamil Nadu, is a scenic town known for its...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/gudalur.webp"
+            },
+            {
+                "name": "Coonoor",
+                "description": "Coonoor, nestled in the Nilgiri Hills of Tamil Nadu, is a charming hill station known...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/coonor.webp"
+            },
+            {
+                "name": "Bargur",
+                "description": "Bargur, located in the foothills of the Eastern Ghats in Tamil Nadu, is a serene hill...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/BARGUR+HILLS.webp"
+            },
+            {
+                "name": "Asanur Malai",
+                "description": "Asanur Malai, located in the Western Ghats of Tamil Nadu, is a serene hill station...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/ASANUR+MALAI.webp"
+            },
+            {
+                "name": "Anamalai",
+                "description": "Anamalai, located in the Western Ghats of Tamil Nadu, is a captivating hill station...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Hills/anaimalai.webp"
+            }
+        ],
+        [
+            {
+                "title": "MUSEUM",
+                "name": "Wax Museum",
+                "description": "The Wax Museum in Kanyakumari is a unique attraction located near the Vivekananda Rock...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Museums/Wax+Museum.webp"
+            },
+            {
+                "name": "Vivekananda House Museum",
+                "description": "The Vivekananda House Museum, located on Marina Beach in Chennai, is a historic landmark...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Museums/Vivekanantha+House+Museum.webp"
+            },
+            {
+                "name": "Victoria Hall",
+                "description": "Victoria Hall, located in Chennai, is a heritage structure built during the British...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Museums/Victoria+Hall.webp"
+            },
+            {
+                "name": "Railway Museum",
+                "description": "The Railway Museum in Trichy is a fascinating destination for train enthusiasts and history...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Museums/trichy-rail-museum.webp"
+            },
+            {
+                "name": "Sculpture Museum",
+                "description": "The Sculpture Museum in Mahabalipuram, Tamil Nadu, showcases a stunning collection of...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Museums/Sculpture+Museum.webp"
+            },
+            {
+                "name": "Mahatma Gandhi Mandapam",
+                "description": "The Mahatma Gandhi Mandapam in Kanyakumari is a monument built to honor Mahatma Gandhi...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Museums/Mahatma+Gandhi+Mandabam+Kanniyakumari.webp"
+            },
+            {
+                "name": "Kanji Kudil",
+                "description": "Kanji Kudil in Kanchipuram is a traditional Tamil village home that offers a fascinating...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Museums/KANCHI+KUDIL.webp"
+            },
+            {
+                "name": "Kamarajar Memorial House",
+                "description": "The Kamarajar Memorial House in Virudhunagar, Tamil Nadu, honors Bharat Ratna recipient...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Museums/Kamarajar+Memorial+House.webp"
+            },
+            {
+                "name": "India Seashell Museum",
+                "description": "The India Seashell Museum in Mahabalipuram is one of the largest museums of its kind in...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Museums/India+Seashell+Museum.webp"
+            },
+            {
+                "name": "Government Museum",
+                "description": "The Government Museum in Pudukkottai offers a unique insight into the rich cultural...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Museums/Government+Museum+Pudukkottai.webp"
+            },
+            {
+                "name": "Fort St. George",
+                "description": "Fort St. George, located in Chennai, Tamil Nadu, is one of the oldest surviving British...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Museums/George+Fort.webp"
+            },
+            {
+                "name": "Gedee Car Museum",
+                "description": "The Gedee Car Museum in Coimbatore is a renowned museum showcasing a diverse collection of...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Museums/Gedee+Car+Museum.webp"
+            },
+            {
+                "name": "Gandhi Memorial Museum ",
+                "description": "The Gandhi Memorial Museum in Madurai, established in 1959, is one of India's five Gandhi... ",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Museums/gandhi-memorial-museum.webp"
+            },
+            {
+                "name": "DakshinaChitra Museum",
+                "description": "DakshinaChitra, located in Muttukadu near Chennai, is a unique heritage museum dedicated to...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Museums/Dakshinachitra+Museum.webp"
+            },
+            {
+                "name": "Archaeological Survey of India Museum",
+                "description": "The Archaeological Survey of India (ASI) Museum, located within the historic Vellore Fort...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Museums/Archaeological+Survey+of+India+Museum+Vellore.webp"
+            },
+            {
+                "name": "Dr.APJ Abdul Kalam Memorial House",
+                "description": "Located in Rameswaram, Tamil Nadu, the Dr. APJ Abdul Kalam Memorial House is a tribute to...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Museums/APJ+ABDUL+KALAM+MEMORIAL+MUSEUM.webp"
+            }
+        ],
+        [
+            {
+                "title": "PALACE",
+                "name": "Velu Nachiyar Palace",
+                "description": "Velu Nachiyar Palace, located in Sivagangai, Tamil Nadu, is a historic structure named...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Palace/Velunachiyar+Palace.webp"
+            },
+            {
+                "name": "Thirumalai Nayakkar Palace",
+                "description": "Thirumalai Nayakkar Palace, located in Madurai, Tamil Nadu, is an iconic example of...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Palace/thirumalai-nayakar-palace.webp"
+            },
+            {
+                "name": "Thanjavur Royal Palace",
+                "description": "Thanjavur Royal Palace, also known as the Thanjavur Maratha Palace, is a historic structure...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Palace/Tanjore+palace.webp"
+            },
+            {
+                "name": "Tamukkam Palace",
+                "description": "Tamukkam Palace, located in the heart of Madurai, Tamil Nadu, is a significant historical...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Palace/Tamukkan+Palace.webp"
+            },
+            {
+                "name": "Siruvayal Palace",
+                "description": "Siruvayal Palace, located in Karaikudi, Tamil Nadu, is a splendid heritage structure that...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Palace/Siruvayal+palace.webp"
+            },
+            {
+                "name": "Ramalingam Vilasam Palace",
+                "description": "Ramalingam Vilasam Palace, situated in Ramanathapuram, Tamil Nadu, is an exquisite example...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Palace/RAMANATHAPURAM+PALACE+(2).webp"
+            },
+            {
+                "name": "Rajagopala Thondaiman Palace",
+                "description": "Rajagopala Thondaiman Palace, located in Pudukkottai, Tamil Nadu, is a historic palace that...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Palace/Rajagopala+thondaiman+Palace.webp"
+            },
+            {
+                "name": "Padmanabhapuram Palace",
+                "description": "Padmanabhapuram Palace, located near Nagercoil in Kanyakumari district, is a historic...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Palace/Padmanabhapuram_Palace.webp"
+            },
+            {
+                "name": "Kuttalam Palace",
+                "description": "Kuttalam Palace, located in the scenic town of Courtallam in Tamil Nadu, is a historic...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Palace/Kuttalam+Palace.webp"
+            },
+            {
+                "name": "Fernhill Palace",
+                "description": "Fernhill Palace, situated in Ooty, is a majestic colonial-era structure that was once the...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Palace/Fernhills_Palace.webp"
+            },
+            {
+                "name": "Chettinad Palace",
+                "description": "Chettinad Palace, located in Karaikkudi, Tamil Nadu, is a grand example of Chettinad...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Palace/Chettinad+Palace.webp"
+            },
+            {
+                "name": "Chepauk Palace",
+                "description": "Chepauk Palace, located in the heart of Chennai, is a historic structure that stands as... ",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Palace/Chepauk_Palace.webp"
+            },
+            {
+                "name": "Bodinayakanur Palace",
+                "description": "Bodinayakanur Palace, located in the picturesque town of Bodinayakanur in Tamil Nadu, is...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Palace/Bodinayakanur-Palace-.webp"
+            },
+            {
+                "name": "Attangudi Palace",
+                "description": "Attangudi Palace, located in the quaint village of Attangudi in Tamil Nadu, is...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Palace/Attangudi+Palace.webp"
+            },
+            {
+                "name": "Amir Mahal",
+                "description": "Amir Mahal, located in Royapettah, Chennai, is a grand palace with historical significance...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Palace/Amir+Mahal.webp"
+            }
+        ],
+        [
+          {
+              "title": "TEMPLES",
+              "name": "Vayalur Murugan Temple",
+              "description": "Vayalur Murugan Temple, located in Trichy, Tamil Nadu, is a revered shrine dedicated to Lord Murugan...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Vayalur+Murugan+temple.webp"
+          },
+          {
+              "name": "Varatharaja Perumal Temple",
+              "description": "Varatharaja Perumal Temple in Kanchipuram, Tamil Nadu, is an ancient...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/VARATHARAJA+PERUMAL+TEMPLE.webp"
+          },
+          {
+              "name": "Vandiyur Mariyamman Temple",
+              "description": "Vandiyur Mariyamman Temple in Madurai, Tamil Nadu, is an ancient and...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/vandiyur-mariamman-teppakulam.webp"
+          },
+          {
+              "name": "Vadapalani Murugan Temple",
+              "description": "Vadapalani Murugan Temple in Chennai, Tamil Nadu, is a prominent Hindu temple...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Vadapalani+Murugan+temple.webp"
+          },
+          {
+              "name": "Uchipillaiyar Temple",
+              "description": "Uchipillaiyar Temple in Trichy, perched atop the Rockfort Hill, is a famous shrine...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/UchiPillaiyar.webp"
+          },
+          {
+              "name": "Thiruvalleeswarar Temple",
+              "description": "Thiruvalleeswarar Temple in Padi, Chennai, is a significant ancient Hindu temple dedicated to...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Padi+Thiruvalleeswarar+temple.webp"
+          },
+          {
+              "name": "Thiruthani Temple",
+              "description": "The Murugan Temple in Thiruthani, Tamil Nadu, is one of the six sacred abodes of...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Thiruthani+Murugan+temple.webp"
+          },
+          {
+              "name": "Thirupparankundram Murugan Temple",
+              "description": "Thirupparankundram Murugan Temple, located in Madurai, Tamil Nadu, is one of the six...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Thirupparankundram+Murugan+temple.webp"
+          },
+          {
+              "name": "Thiruchendur Murugan Temple",
+              "description": "Murugan Temple in Thiruchendur, Tamil Nadu, is one of the six sacred abodes of Lord Murugan...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Thirunchenthur+murugan+temple.webp"
+          },
+          {
+              "name": "Thillai Nataraja Temple",
+              "description": "The Thillai Nataraja Temple, located in Chidambaram, Tamil Nadu, is one of the most famous...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Thillai-nataraja-temple.webp"
+          },
+          {
+              "name": "Swami Malai Murugan Temple",
+              "description": "Swami Malai Murugan Temple, located in Kumbakonam, Tamil Nadu, is one of the six abodes of...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Swamimalai-murugan-temple-kumbakonam.webp"
+          },
+          {
+              "name": "Suchindram Thanumalayan Temple",
+              "description": "Suchindram Thanumalayan Temple, located in Kanyakumari district, Tamil Nadu, is a revered shrine dedicated to...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Suchindran+Thanumalayan+Temple.webp"
+          },
+          {
+              "name": "Sri Villiputhur Andal Temple",
+              "description": "Sri Villiapputhur Andal Temple, located in Virudhunagar, Tamil Nadu, is a revered shrine dedicated to Goddess...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/SRIVILLIPUTHUR+ANDAL+TEMPLE.webp"
+          },
+          {
+              "name": "Srirangam Temple",
+              "description": "Srirangam Temple in Trichy, also known as Sri Ranganathaswamy Temple, is the largest...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Srirangam+Temple.webp"
+          },
+          {
+              "name": "Sri Kaleeswari Temple",
+              "description": "Sri Kaleeswari Temple, located in Trichy, Tamil Nadu, is a prominent Hindu temple dedicated to...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Sri-kaleeswari-thirukkoil.webp"
+          },
+          {
+              "name": "Sri Thiyagaraja Swamy Temple",
+              "description": "Sri Thiyagaraja Swamy Temple in Thiruvarur, Tamil Nadu, is a renowned Shiva temple celebrated...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/sri+thiyagaraja+swamy+temple.webp"
+          },
+          {
+              "name": "Sri Subramaniya Swamy Temple",
+              "description": "Sri Subramaniya Swamy Temple, located in Kanchipuram, Tamil Nadu, is a prominent Hindu temple...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Sri+Subramaniya+Swamy+Temple.webp"
+          },
+          {
+              "name": "Sri Ramakrishna Math",
+              "description": "Sri Ramakrishna Math in Chennai, Tamil Nadu, is a spiritual and cultural center founded by...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/extra+img/image/Sri+Ramakrishna+Math+chennai.jpg"
+          },
+          {
+              "name": "Sri Neelakanda Pillaiyar Temple",
+              "description": "Sri Neelakanda Pillaiyar Temple in Peravurani, Tamil Nadu, is a revered shrine dedicated to Lord Ganesha...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Sri+Neelakanda+pillayar+temple.webp"
+          },
+          {
+              "name": "Soundaraja Perumal Temple",
+              "description": "Soundaraja Perumal Temple, located in Thadikkombu, near Dindigul, Tamil Nadu, is a revered temple...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Soundaraja+Perumal+Temple.webp"
+          },
+          {
+              "name": "Siruvapuri Valamurugan Temple",
+              "description": "Siruvapuri Valamurugan Temple, located in Siruvapuri near Chennai, Tamil Nadu, is dedicated to...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Siruvapuri+Balamurugan.webp"
+          },
+          {
+              "name": "Samayapuram Mariyamman Temple",
+              "description": "Samayapuram Mariyamman Temple in Trichy is a revered shrine dedicated to Goddess Mariyamman...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Samayapuram_Mariyamman_Temple.webp"
+          },
+          {
+              "name": "Sri Rajagopala Swamy Temple",
+              "description": "ri Rajagopala Swamy Temple in Mannargudi, Tamil Nadu, is a grand Vishnu temple revered...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/rajagobalaswamy+temple+mannargudi.webp"
+          },
+          {
+              "name": "Punnainallur Mariyamman Temple",
+              "description": "Punnainallur Mariyamman Temple in Thanjavur is a revered shrine dedicated to Goddess...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Punnainallur+mariamman.webp"
+          },
+          {
+              "name": "Pillaiyar Patti Temple",
+              "description": "Pillaiyar Patti in Sivagangai, Tamil Nadu, is home to the famous Pillaiyar Patti Vinayagar...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/PillayarPatti+(sivagangai).webp"
+          },
+          {
+              "name": "Pazhamuthircholai Murugan Temple",
+              "description": "Murugan Temple in Pazhamuthircholai, located near Madurai, Tamil Nadu, is one of the six...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/PazhamuthirCholai+Murugan+temple.webp"
+          },
+          {
+              "name": "Parthasarathi Temple",
+              "description": "The Parthasarathi Temple, located in Thiruvallikeni (Chennai), is one of the oldest and most...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Parthasarathy+Temple+Tiruvallikeni.webp"
+          },
+          {
+              "name": "Papanasam Sivan Temple",
+              "description": "Papanasam Sivan Temple, located in Kanyakumari, Tamil Nadu, is dedicated to Lord Shiva and...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Papanasam+Sivan+Temple.webp"
+          },
+          {
+              "name": "Palani Murugan Temple",
+              "description": "Palani Murugan Temple, located in Dindigul, Tamil Nadu, is one of the six sacred abodes of...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Palani+Murugan+Temple.webp"
+          },
+          {
+              "name": "Nagaraja Temple",
+              "description": "Nagaraja Temple, located in Nagarkovil, Tamil Nadu, is a revered temple dedicated to...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Nagaraja+Temple.webp"
+          },
+          {
+              "name": "Muthu Mariyamman Temple",
+              "description": "Muthu Mariyamman Temple in Narthamalai, located near Pudukkottai, is an ancient and...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Narthamalai.webp"
+          },
+          {
+              "name": "Meenakshi Amman Temple",
+              "description": "Meenakshi Amman Temple in Madurai, Tamil Nadu, is a grand and historic Hindu temple...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/meenakshi-amman-temple-madurai.webp"
+          },
+          {
+              "name": "Mayuranathar Temple",
+              "description": "Mayuranathar Temple, located in Mayiladuthurai, Tamil Nadu, is a prominent Shiva temple...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Mayuranathar+Temple.webp"
+          },
+          {
+              "name": "Maruthamalai Murugan Temple",
+              "description": "Maruthamalai Murugan Temple, located on a hilltop in Coimbatore, Tamil Nadu, is...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Maruthamalai.webp"
+          },
+          {
+              "name": "Mahabalipuram",
+              "description": "Mahabalipuram, located in Chengalpattu district, Tamil Nadu, is a UNESCO World Heritage Site...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Mahabalipuram+(1).webp"
+          },
+          {
+              "name": "Kundrakudi Murugan Temple",
+              "description": "Kundrakudi Murugan Temple, located near Karaikkudi in Tamil Nadu, is a prominent...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Kundrakudi+Murugan+Temple.webp"
+          },
+          {
+              "name": "Kamakshi Amman Temple",
+              "description": "Kamakshi Amman Temple, located in Kanchipuram, Tamil Nadu, is one of the holiest temples...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/KAMAKSHI+AMMAN+TEMPLE.webp"
+          },
+          {
+              "name": "Kailasanathar Temple",
+              "description": "Kailasanathar Temple in Nedungudi, Pudukkottai, Tamil Nadu, is a historic...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Kailasanathar+Temple+(Nedungudi).webp"
+          },
+          {
+              "name": "Kabaleeswarar Temple",
+              "description": "Kabaleeswarar Temple, located in Mylapore, Chennai, is one of the most revered...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Kabaleeswarar+Temple.webp"
+          },
+          {
+              "name": "Jambukeswarar Temple",
+              "description": "Jambukeswarar Temple, located in Thiruvanaikkaval near Trichy, Tamil Nadu, is a significant...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Jambukeswarar+temple+thiruvanaikaval.webp"
+          },
+          {
+              "name": "Isha",
+              "description": "Isha Foundation, located near Coimbatore in Tamil Nadu, is a non-profit organization...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Isha.webp"
+          },
+          {
+              "name": "Golden Temple",
+              "description": "Golden Temple in Vellore, also known as Sripuram, is a renowned spiritual and...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Golden+Temple+Vellore.webp"
+          },
+          {
+              "name": "Gangaikonda Cholapuram",
+              "description": "Gangaikonda Cholapuram in Ariyalur is a UNESCO World Heritage Site and a testament to the..",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Gangaikondacholapuram_Temple.webp"
+          },
+          {
+              "name": "Ekambeswarar Temple",
+              "description": "Ekambeswarar Temple, located in Kanchipuram, Tamil Nadu, is one of the most revered temples...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Ekambareswarar+Temple.webp"
+          },
+          {
+              "name": "Brihadeeswarar Temple",
+              "description": "Thanjavur Big Temple, also known as Brihadeeswarar Temple, is a UNESCO World Heritage Site...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Brihadisvara+Temple.webp"
+          },
+          {
+              "name": "Alagar Kovil",
+              "description": "Alagar Kovil in Madurai, Tamil Nadu, is a revered temple dedicated to Lord Vishnu, situated...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Azhagar+temple.webp"
+          },
+          {
+              "name": "Airavateswarar Temple",
+              "description": "Airavateswarar Temple in Darasuram, a UNESCO World Heritage Site, is a stunning...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Airdheshwarar+Tharasuram.webp"
+          },
+          {
+              "name": "Adi Kumbeswarar Temple",
+              "description": "Adi Kumbeswarar Temple, located in Kumbakonam, Tamil Nadu, is a significant Hindu temple...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/adi+Kumbeswarar_temple.webp"
+          },
+          {
+              "name": "Adikesava Perumal Temple",
+              "description": "Adikesava Perumal Temple in Kanyakumari, Tamil Nadu, is an ancient and revered shrine...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Adi+kesava+Perumal+Temple.webp"
+          },
+          {
+              "name": "Athmanadha Swamy Temple",
+              "description": "Athmanadha Swamy Temple in Avudaiyar Kovil, Tamil Nadu, is a revered ancient shrine...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/Aavudayarkoil++Athmanadha+SwamyTemple.webp"
+          },
+          {
+              "name": "1008 Lingam Sivan Temple",
+              "description": "The 1008 Lingam Sivan Temple in Salem, Tamil Nadu, is a unique and sacred shrine dedicated...",
+              "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/temple/1008+lingam+sivan+temple.webp"
+          }
+        ],
+        [
+            {
+                "title": "WATERFALLS",
+                "name": "Vattaparai Falls",
+                "description": "Vattaparai Falls, situated in the Keeriparai Reserve Forest near Bhoothapandi village...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/Vattaparai_falls.webp"
+            },
+            {
+                "name": "Vaideki Waterfall",
+                "description": "Vaideki Falls, situated approximately 35 km from Coimbatore in Tamil Nadu, is a...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/vaidehi-waterfalls.webp"
+            },
+            {
+                "name": "Ulakkai Aruvi",
+                "description": "Olakkay Aruvi, also known as Ulakkai Aruvi, is a captivating waterfall situated in...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/Ulakkai_aruvi.webp"
+            },
+            {
+                "name": "Thirparappu Waterfalls",
+                "description": "Thirparappu Waterfalls, located in the Kanyakumari district of Tamil Nadu, is a captivating...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/Thiruparappu+Waterfalls.webp"
+            },
+            {
+                "name": "Thalaiyar Waterfalls",
+                "description": "Thalaiyar Waterfalls, also known as Rat Tail Falls, is the tallest waterfall in Tamil Nadu...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/Thalaiyar+Waterfalls.webp"
+            },
+            {
+                "name": "Suruli Falls",
+                "description": "Suruli Falls, located in the Theni district of Tamil Nadu, India, is a captivating...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/SURULI+FALLS.webp"
+            },
+            {
+                "name": "Siruvani Waterfall",
+                "description": "Located approximately 36 kilometers from Coimbatore in Tamil Nadu, Siruvani Waterfalls is a...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/Siruvani+Waterfalls.webp"
+            },
+            {
+                "name": "Silver Cascade Falls",
+                "description": "Silver Cascade Falls, located approximately 8 kilometers from Kodaikanal on the...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/Silver-Cascade-Falls.webp"
+            },
+            {
+                "name": "Pykara River",
+                "description": "Pykara, located approximately 20 kilometers from Ooty in Tamil Nadu, India, is renowned for...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/Pykara_waterfalls.webp"
+            },
+            {
+                "name": "Puliyancholai Waterfalls",
+                "description": "Puliyancholai Waterfalls, situated approximately 75 kilometers from Tiruchirappalli in Tamil...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/puliyancholai-falls.webp"
+            },
+            {
+                "name": "Pambar Falls",
+                "description": "Pambar Falls, also known as the 'Grand Cascade,' is a captivating waterfall situated...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/Pambar+Falls.webp"
+            },
+            {
+                "name": "Kaviyarai Waterfalls",
+                "description": "Kaviyarai Waterfalls, commonly known as Monkey Falls, is a picturesque cascade located...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/Monkey+falls.webp"
+            },
+            {
+                "name": "Megam Falls",
+                "description": "Megam Falls, situated in the Kalvarayan Hills near Kallakurichi in Tamil Nadu, is a...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/megam-falls.webp"
+            },
+            {
+                "name": "Manimuthar Waterfalls",
+                "description": "Manimuthar Waterfalls, situated approximately 13 kilometers from Ambasamudram and about...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/manimuthar-falls.webp"
+            },
+            {
+                "name": "Kutladampatti Waterfalls",
+                "description": "Kutladampatti Waterfalls, situated approximately 30 kilometers northwest of Madurai...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/Kutladampatti+Falls.webp"
+            },
+            {
+                "name": "Kumbakkarai Falls",
+                "description": "Kumbakkarai Falls, situated near Periyakulam in Tamil Nadu's Theni district, is a...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/KUMBAKKARAI+FALLS.webp"
+            },
+            {
+                "name": "Kotagiri Waterfalls",
+                "description": "Kotagiri Waterfalls is a beautiful natural attraction located in the Nilgiri Hills of Tamil...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/Kotagiri+WaterFalls.webp"
+            },
+            {
+                "name": "Kolacombai Waterfalls",
+                "description": "Kolacombai Waterfalls is a hidden gem located in the Nilgiri Hills, near the town...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/Kolacombai_Water_Falls_optimized_950.webp"
+            },
+            {
+                "name": "Kodiveri Waterfalls",
+                "description": "Kodiveri Waterfalls, situated near Gobichettipalayam in the Erode district of Tamil Nadu...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/Kodiveri-WaterFalls.webp"
+            },
+            {
+                "name": "Kiliyur Falls",
+                "description": "Kiliyur Falls, situated in Yercaud, Tamil Nadu, is a picturesque waterfall nestled amidst...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/Kiliyur+Waterfalls.webp"
+            },
+            {
+                "name": "Kalhatti Waterfalls",
+                "description": "Kalhatti Waterfalls, situated approximately 13 kilometers from Ooty on the Ooty-Mysore...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/Kalhatti+Waterfalls.webp"
+            },
+            {
+                "name": "Jalagamparai Falls",
+                "description": "Jalagamparai Waterfalls, located approximately 37 kilometers from Yelagiri Hills in Tamil...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/Jalagamparai+Falls.webp"
+            },
+            {
+                "name": "Hogenakkal Falls",
+                "description": "Hogenakkal Falls, often referred to as the Niagara of India, is a stunning waterfall located...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/Hogenakkal+Waterfalls.webp"
+            },
+            {
+                "name": "Fairy Falls",
+                "description": "Fairy Falls, situated approximately 5 kilometers from Kodaikanal Lake in the Dindigul",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/Fairy+falls.webp"
+            },
+            {
+                "name": "Elk Falls",
+                "description": "Elk Falls, also known as Uyillatti Falls, is a picturesque waterfall situated near the...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/Elk+Falls+Kotagiry.webp"
+            },
+            {
+                "name": "Courtallam Falls",
+                "description": "Courtallam Falls, often referred to as the Spa of South India, is a renowned waterfall...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/COURTALLAM+WATERFALLS.webp"
+            },
+            {
+                "name": "Catherine Falls",
+                "description": "Catherine Falls, located in Kotagiri within Tamil Nadu's Nilgiris District, is a...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/CATHERINE_WATER_FALLS.webp"
+            },
+            {
+                "name": "Bear Shola Falls",
+                "description": "Bear Shola Falls, located approximately 2 kilometers from Kodaikanal Lake in Tamil Nadu, is...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/bear-shola-falls.webp"
+            },
+            {
+                "name": "Ayyanar Falls",
+                "description": "Ayyanar Falls, situated approximately 10 km west of Rajapalayam in Tamil Nadu's...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/AYYANAR+KOVIL+FALLS.webp"
+            },
+            {
+                "name": "Agaya Gangai Waterfalls",
+                "description": "Agaya Gangai Waterfalls, situated in the Kolli Hills of Tamil Nadu's Namakkal district, is...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/agaya_kangai_waterfalls_optimized_950.webp"
+            },
+            {
+                "name": "Agasthiyar Falls",
+                "description": "Agasthiyar Falls, also known as Papanasam Falls, is a picturesque waterfall situated...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/Water+Falls/AGASTHIYAR+FALLS.webp"
+            }
+        ],
+        [
+            {
+                "title": "WILDLIFE",
+                "name": "Viralimalai Bird Sanctuary",
+                "description": "Viralimalai Bird Sanctuary, situated approximately 30 km from Tiruchirappalli and...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/Viralimalai-sanctuary.webp"
+            },
+            {
+                "name": "Vedanthangal Bird Sanctuary",
+                "description": "Vedanthangal Bird Sanctuary, situated in the Chengalpattu district of Tamil Nadu, India, is...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/Vedanthangal_Lake.webp"
+            },
+            {
+                "name": "Arignar Anna Zoological Park",
+                "description": "Arignar Anna Zoological Park, commonly known as Vandalur Zoo, is a prominent zoological park...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/Vandalur+Zoo.webp"
+            },
+            {
+                "name": "Vallanadu Wildlife Sanctuary",
+                "description": "Vallanadu Wildlife Sanctuary, situated approximately 35 km from Thoothukudi in Tamil Nadu...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/Vallanadu-sanctuary.webp"
+            },
+            {
+                "name": "Vaduvoor Bird Sanctuary",
+                "description": "Vaduvoor Bird Sanctuary, situated in the Tiruvarur District of Tamil Nadu, India, is a...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/vaduvoor-bird-sanctuary.webp"
+            },
+            {
+                "name": "Srivilliputhur Grizzled Squirrel Sanctuary",
+                "description": "Established in 1988, the Srivilliputhur Grizzled Squirrel Wildlife Sanctuary, located...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/SRIVILLIPUTHUR+GRIZZED+SQUIRREL+WILDLIFE+SANCTUARY.webp"
+            },
+            {
+                "name": "Guindy Snake Park",
+                "description": "Established in 1972, the Guindy Snake Park in Chennai is India's first...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/Snake+Park+Chennai.webp"
+            },
+            {
+                "name": "Sathyamangalam Tiger Sanctuary",
+                "description": "Sathyamangalam Tiger Reserve, situated at the confluence of the Eastern and Western Ghats in...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/Sathyamangalam+Tiger+Sanctuary.webp"
+            },
+            {
+                "name": "Point Calimere Wildlife and Bird Sanctuary",
+                "description": "Point Calimere Wildlife and Bird Sanctuary, located in the Nagapattinam district of Tamil...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/Point_Calimere_Wildlife_and_Bird_Sanctuary.webp"
+            },
+            {
+                "name": "Mukurthi National Park",
+                "description": "Mukurthi National Park, located in the Nilgiri Hills of Tamil Nadu, India, is a...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/extra+img/image/Mukuthi+National+Park+Nilgiri.jpg"
+            },
+            {
+                "name": "Mudumalai Tiger Reserve",
+                "description": "Mudumalai Tiger Reserve, located in the Nilgiri district of Tamil Nadu, India, is a...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/Mudumalai+wildlife+sanctuary.webp"
+            },
+            {
+                "name": "Masinagudi-wild-animal",
+                "description": "Masinagudi, nestled in the Nilgiri Hills of Tamil Nadu, is a renowned wildlife destination...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/Masinagudi-wild-animal.webp"
+            },
+            {
+                "name": "Longwood Shola Reserve Forest",
+                "description": "Longwood Shola Reserve Forest, situated near Kotagiri in Tamil Nadu's Nilgiri district...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/Longwood+Shola+Reserve+Forest.webp"
+            },
+            {
+                "name": "Koonthankulam Bird Sanctuary",
+                "description": "Koonthakulam Bird Sanctuary, situated in the Tirunelveli district of Tamil Nadu, India...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/Koonthankulam+Bird+Sanctuary.webp"
+            },
+            {
+                "name": "Karaivetti Bird Sanctuary",
+                "description": "Karaivetti Bird Sanctuary, situated in the Ariyalur District of Tamil Nadu, is a...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/Karaivetti+Bird+Sanctuary.webp"
+            },
+            {
+                "name": "Kanniyakumari Wildlife Sanctuary",
+                "description": "Kanniyakumari Wildlife is located in the southernmost part of India, where the Arabian Sea...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/Kanniyakumari+Wildlife.webp"
+            },
+            {
+                "name": "Kalakkad Mundanthurai Tiger Reserve",
+                "description": "Kalakkad Mundanthurai Tiger Reserve (KMTR), established in 1988, is the second-largest...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/KALAKKAD+MUNDANTHURAI+TIGER+RESERVE.webp"
+            },
+            {
+                "name": "Gulf of Mannar Marine National Park",
+                "description": "The Gulf of Mannar Marine National Park, established in 1989, is India's first marine..",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/GULF+OF+MANNAR+MARINE+NATIONAL+PARK.webp"
+            },
+            {
+                "name": "Guindy National Park",
+                "description": "Guindy National Park, situated in the heart of Chennai, Tamil Nadu, is a...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/Guindy_National_Park.webp"
+            },
+            {
+                "name": "Crocodile park",
+                "description": "The Madras Crocodile Bank Trust and Centre for Herpetology, located approximately...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/Crocodile+park+Chennai.webp"
+            },
+            {
+                "name": "Anamalai Tiger Reserve",
+                "description": "Anamalai Tiger Reserve, situated in the Western Ghats of Tamil Nadu, is a sanctuary...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/Anamalai+Tiger+Reserve.webp"
+            },
+            {
+                "name": "Anaimalai Wildlife sanctuary",
+                "description": "Parambikulam Tiger Reserve, established in 2009, spans approximately 643.66 square...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/Anaimalai+Wildlife+sanctuary.webp"
+            },
+            {
+                "name": "Amirthi Zoological Park",
+                "description": "Amirthi Zoological Park, situated approximately 25 kilometers south of Vellore...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/Amirthi+Zoo.webp"
+            },
+            {
+                "name": "Agasthyamalai Biosapere reserve",
+                "description": "Agasthyamalai Biosphere Reserve, situated at the southernmost tip of the Western Ghats...",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/PlaceToVisitFolders/WILD+LIFE/Agasthyamalai_Biosapere_reserve.webp"
+            }
+        ]
+    ]
+  }

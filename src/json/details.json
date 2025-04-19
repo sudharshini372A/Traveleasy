@@ -1,0 +1,2449 @@
+
+
+{
+    "districtPlaces": [      
+        [
+            {   
+                "title" :"Ariyalur: A Tapestry of Spirituality, History, and Industry",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/ariyalur/famous+places/gangaikonda_cholapuram.webp",
+                "attractPara": "The Gangaikondacholisvarar Temple",
+                "attractText": "The Gangaikondacholisvarar Temple, located in Gangaikonda Cholapuram, Tamil Nadu, is a UNESCO..."
+            },
+            {
+
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/ariyalur/heritage/karaivetti-bird-sanctuary.webp",
+                "attractPara": "Karaivetti Bird Sanctuary",
+                "attractText": "Karaivetti Bird Sanctuary, located in Ariyalur District, Tamil Nadu, is a crucial wetland ecosystem..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/ariyalur/museums/Fossil-museums.webp",
+                "attractPara": "Fossil Museum",
+                "attractText": "The Fossil Museum in Ariyalur District, Tamil Nadu, is a prominent destination for paleontological research..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/ariyalur/palaces/Udayarpalayam+palace.webp",
+                "attractPara": "Udayarpalayam Palace",
+                "attractText": "Udayarpalayam Palace, located in the Ariyalur district of Tamil Nadu, is a historical landmark that reflects..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/ariyalur/heritage/Elakurichi_Church+.webp",
+                "attractPara": "Elakurichi Church",
+                "attractText": "Elakurichi Church, located in the Ariyalur district of Tamil Nadu, is a historic Roman Catholic..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/ariyalur/heritage/Govindaputtur+Shiva+Temple+jpg.webp",
+                "attractPara": "Govindaputtur Shiva Temple",
+                "attractText": "Govindaputtur Shiva Temple, located in Ariyalur District, Tamil Nadu, is a serene and ancient temple..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/ariyalur/Temples/kamarasavalli2.webp",
+                "attractPara": "Kamarasavalli Amman Temple",
+                "attractText": "Kamarasavalli Amman Temple, located in Ariyalur District, Tamil Nadu, is a revered Hindu temple..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/ariyalur/heritage/Thirumazhapadi_Shiva_Temple+.webp",
+                "attractPara": "Thirumazhapadi Shiva Temple",
+                "attractText": "The Thirumazhapadi Shiva Temple is an ancient and revered Hindu temple located in the Ariyalur district..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/ariyalur/Temples/Kaliyuga-Varadaraja-Perumal-Temple.webp",
+                "attractPara": "Kaliyuga Varadaraja Perumal Temple",
+                "attractText": "The Kaliyuga Varadaraja Perumal Temple, located in Ariyalur district, Tamil Nadu, is a renowned..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/ariyalur/Temples/pazhuvur_Shiva_Temple+.webp",
+                "attractPara": "Pazhuvur Shiva Temple",
+                "attractText": "Pazhuvur Shiva Temple, located in the Ariyalur district of Tamil Nadu, is a revered Hindu temple dedicated..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/ariyalur/famous+places/Kailasanathar+Temple.webp",
+                "attractPara": "Sri Kailasanathar Temple",
+                "attractText": "Sri Kailasanathar Temple, located in Ariyalur District, Tamil Nadu, is a revered Hindu temple..."
+            }
+        ],     
+        [
+            {
+                "title" :"Chengalpattu: A Journey Through Spirituality, History, and Natural Beauty",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/chengalpattu/famous+places/Mahabalipuram.webp",
+                "attractPara": "Mahabalipuram",
+                "attractText": "Mahabalipuram, also known as Mamallapuram, is a historic coastal town located in Chengalpattu district..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/chengalpattu/Beaches/kovalam.webp",
+                "attractPara": "Kovalam Beach",
+                "attractText": " Kovalam Beach, also known as Covelong, is a picturesque coastal destination..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/Beaches/Omr-beach.webp",
+                "attractPara": "OMR Beach",
+                "attractText": "OMR Beach, located along the bustling Old Mahabalipuram Road in Chennai district, is a hidden gem offering tranquility..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/chengalpattu/wildlife/vedanthangal9.webp",
+                "attractPara": "Vedanthangal Bird Sanctuary",
+                "attractText": "Vedanthangal Bird Sanctuary, located in Chengalpattu district, Tamil Nadu, is one of the oldest bird sanctuaries..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/chengalpattu/backwaters/Thiruporur+Lake.webp",
+                "attractPara": "Thiruporur Lake",
+                "attractText": "Thiruporur Lake is a prominent water body located in the Thiruporur region of Chengalpattu..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/chengalpattu/backwaters/Madhurantakam_Lake+.webp",
+                "attractPara": "Madhurantakam Lake",
+                "attractText": "Madhurantakam Lake is a large, historic water body located in the Chengalpattu district of Tamil Nadu, India. Spanning..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/chengalpattu/famous+places/Sadras+Fort+.webp",
+                "attractPara": "Sadras Fort",
+                "attractText": "Sadras Fort is a historic site located in the Chengalpattu district of Tamil Nadu, India, along the Coromandel Coast..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/chengalpattu/wildlife/Karikili+Bird+Sanctuary++(2).webp",
+                "attractPara": "Karikili Bird Sanctuary",
+                "attractText": "Karikili Bird Sanctuary, located in Chengalpattu district, Tamil Nadu, is a serene haven for..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/chengalpattu/Beaches/mahabalipuram-beach.webp",
+                "attractPara": "Mahabalipuram Beach",
+                "attractText": "Mahabalipuram Beach, located in the coastal town of Mahabalipuram (Mamallapuram)..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/hikings/chambarapakkam.webp",
+                "attractPara": "Chembarambakkam Lake",
+                "attractText": "Chembarambakkam Lake, located in Chennai district, is a major reservoir used for drinking water supply..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/chengalpattu/famous+places/Vedhagireeswarar_temple.webp",
+                "attractPara": "Vedagiriswarar Temple",
+                "attractText": "Vedagiriswarar Temple, located in Thirukazhukundram, Chengalpattu district, Tamil Nadu, is a renowned..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/chengalpattu/Temples/Tirupporur+Murugan+Temple.webp",
+                "attractPara": "Thiruporur Kandaswamy Temple",
+                "attractText": "Thiruporur Kandaswamy Temple, located in Chengalpattu district, Tamil Nadu, is a revered Hindu shrine..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/chengalpattu/Temples/kandhaswamy_temple_cheyyur.webp",
+                "attractPara": "Sri Kandhaswamy Temple",
+                "attractText": "Sri Kandhaswamy Temple, located in Cheyyur in the Chengalpattu district of Tamil Nadu, is an ancient..."
+            }
+        ],   
+        [
+            {
+                "title" :"Chennai: The Gateway to South India",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/Beaches/Marina-Beach-.webp",
+                "attractPara": "Marina Beach",
+                "attractText": "Marina Beach, located in the heart of Chennai district, is India’s longest urban beach..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/Temples/vadapalani_murugan_temple.webp",
+                "attractPara": "Vadapalani Murugan Temple",
+                "attractText": "The Vadapalani Murugan Temple in Chennai district is renowned for being one of the..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/wildlife/zoo-vandaloor.webp",
+                "attractPara": "Arignar Anna Zoological Park",
+                "attractText": "The Arignar Anna Zoological Park, located in Vandalur, Chennai district, is one of the largest zoological parks..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/Beaches/elliots-beach.webp",
+                "attractPara": "Elliots Beach",
+                "attractText": "Elliots Beach, also known as 'Bessie' is a popular destination in Chennai for both locals and tourists..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/Beaches/golden-beach.webp",
+                "attractPara": "Golden Beach",
+                "attractText": "Golden Beach in Chennai is one of the city’s most popular beaches, known for its golden sands..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/Beaches/Kotturpuram.webp",
+                "attractPara": "Kotturpuram",
+                "attractText": "Kotturpuram is a locality in Chennai, known for its residential areas and proximity to educational institutions..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/famous+places/govt_museum.webp",
+                "attractPara": "Government Museum",
+                "attractText": "The Government Museum in Chennai district, one of India’s oldest and largest museums, was established..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/Beaches/Muttukadu_beach.webp",
+                "attractPara": "Muttukadu Beach",
+                "attractText": "Muttukadu Beach, located along the East Coast Road in Chennai district, is a serene and scenic destination perfect..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/Beaches/uthandi-beach.webp",
+                "attractPara": "Uthandi Beach",
+                "attractText": "Uthandi Beach, located in the southern suburbs of Chennai district, is a tranquil retreat known for its quiet..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/famous+places/chennai-rail-museum.webp",
+                "attractPara": "Rail Museum",
+                "attractText": "The Rail Museum in Chennai district is dedicated to showcasing the history of Indian railways. Located in the island..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/backwaters/adyer_river.webp",
+                "attractPara": "Adyar River",
+                "attractText": "The Adyar River, one of the major rivers in Chennai, originates from the semi-arid regions of Tamil Nadu and flows..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/famous+places/Guindy+National+Park+.webp",
+                "attractPara": "Guindy National Park",
+                "attractText": "Guindy National Park, located in the heart of Chennai district, is one of the smallest national..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/forts/Fort_St._George%2C_Chennai.webp",
+                "attractPara": "Fort St. George",
+                "attractText": "Fort St. George in Chennai is one of the oldest British establishments in India, built in 1644. It served as..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/famous+places/Santhome-Cathedral-Basilica.webp",
+                "attractPara": "St. Thomas Mount Shrine",
+                "attractText": "St. Thomas Mount Shrine, located in Chennai district, is a significant Christian pilgrimage site associated..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/famous+places/valluvar-kottam.webp",
+                "attractPara": "Valluvar Kottam",
+                "attractText": "Valluvar Kottam, located in Chennai district, is a monument dedicated to the great Tamil poet and philosopher..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/museums/vivekananda-house-and-museum.webp",
+                "attractPara": "Vivekananda House and Museum",
+                "attractText": "Vivekananda House and Museum in Chennai district is a historic building dedicated to the Indian spiritual leader..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/wildlife/adyarestuary.webp",
+                "attractPara": "Adyar Estuary Wildlife Sanctuary",
+                "attractText": "Adyar Estuary Wildlife Sanctuary in Chennai district is a vital ecological area situated at the mouth..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/palaces/The_Chepauk_Palace.webp",
+                "attractPara": "Chepauk Palace",
+                "attractText": "The Chepauk Palace in Chennai, built in the 18th century, is a stunning example of traditional Tamil Nadu..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/hikings/Nanmangalam+Forest+Reserve+.webp",
+                "attractPara": "Nanmangalam Forest Reserve",
+                "attractText": "Nanmangalam Forest Reserve, located in Chennai district, is one of the few remaining green patches..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/palaces/Amir+Mahal+.webp",
+                "attractPara": "Amir Mahal",
+                "attractText": "Amir Mahal in Chennai is a historic palace built by the Nawaab of Arcot, Syed Muhammad Daud Khan..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/palaces/Ripon+Building+(Colonial+Architectural+Style).webp",
+                "attractPara": "Ripon Building",
+                "attractText": "The Ripon Building in Chennai is an iconic example of colonial architectural style, built in 1913 to house..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/hikings/Pallikaranai+Marshland+.webp",
+                "attractPara": "Pallikaranai Marshland",
+                "attractText": "Pallikaranai Marshland in Chennai district is one of the few remaining urban wetlands in India. It covers..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/wildlife/Olive+Ridley+Turtle+Nesting+Sites+(Marina+and+Besant+Nagar+Beaches)+.webp",
+                "attractPara": "Olive Ridley Turtle Nesting Sites",
+                "attractText": "The Olive Ridley Turtle Nesting Sites along the Marina and Besant Nagar beaches in Chennai district..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/wildlife/Snake+Park+(Chennai+Snake+Park+Trust)+.webp",
+                "attractPara": "Snake Park",
+                "attractText": "The Snake Park, managed by the Chennai Snake Park Trust in Chennai district, is dedicated..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/museums/Birla+Planetarium+(Part+of+Periyar+Science+and+.webp",
+                "attractPara": "Birla Planetarium Museum",
+                "attractText": "The Birla Planetarium Museum in Chennai district is a popular educational and cultural attraction dedicated..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/Temples/parthasarathy_16.webp",
+                "attractPara": "Parthasarathy Temple",
+                "attractText": "The Parthasarathy Temple, located in Triplicane, Chennai district, is one of the oldest and most revered..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/Beaches/thiruvanmiyur-beach.webp",
+                "attractPara": "Thiruvanmiyur Beach",
+                "attractText": "Thiruvanmiyur Beach, situated in the southern part of Chennai district, is a peaceful and less crowded"
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/hikings/Thiruneermalai-Temple.webp",
+                "attractPara": "Thiruneermalai",
+                "attractText": "Thiruneermalai, located in the Chennai district, is a suburb known for its historic and religious significance..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/Temples/velleeswarar_temple.webp",
+                "attractPara": "Velleeswarar Temple",
+                "attractText": "The Velleeswarar Temple, located in Mylapore, Chennai district, is a significant Hindu temple dedicated..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Chennai/museums/dakshinachitra.webp",
+                "attractPara": "DakshinaChitra",
+                "attractText": "DakshinaChitra, located near Chennai in Tamil Nadu, is a living history museum showcasing..."
+            }
+        ],       
+        [
+            {
+                "title":"Coimbatore: The Vibrant City of Industry and Culture",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Coimbatore/Temples/adiyogi-ishayogacenter.webp",
+                "attractPara": "Adiyogi Isha Yoga Center",
+                "attractText": "The Adiyogi Isha Yoga Center, located in Coimbatore, Tamil Nadu, is a renowned spiritual..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Coimbatore/waterfalls/monkey-falls.webp",
+                "attractPara": "Monkey Falls",
+                "attractText": "Monkey Falls, located near Coimbatore, is a popular and picturesque waterfall..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Coimbatore/wildlife/Anamalai+Tiger+Reserve+.webp",
+                "attractPara": "Anamalai Tiger Reserve",
+                "attractText": "Anamalai Tiger Reserve, located in the Western Ghats near Coimbatore, is a vast sanctuary known..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Coimbatore/waterfalls/aliyar-dam-reservoir.webp",
+                "attractPara": "Aliyar Dam Reservoir",
+                "attractText": "Aliyar Dam Reservoir, located near Coimbatore, is a scenic spot known for its picturesque views and serene atmosphere..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Coimbatore/hikings/siruvani_falls.webp",
+                "attractPara": "Siruvani Falls",
+                "attractText": "Siruvani Falls, located near Coimbatore, is a beautiful and tranquil waterfall nestled in the Western Ghats..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Coimbatore/waterfalls/vaideki-waterfalls.webp",
+                "attractPara": "Vaideki Waterfalls",
+                "attractText": "Vaideki Waterfalls, located near Coimbatore, is a hidden gem nestled in the Anamalai..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Coimbatore/waterfalls/kovai-kutralam-falls.webp",
+                "attractPara": "Kovai Kutralam Falls",
+                "attractText": "Kovai Kutralam Falls, located near Coimbatore, is a beautiful and serene waterfall nestled in the Western Ghats..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Coimbatore/hikings/velliangiri-mountains.webp",
+                "attractPara": "Velliangiri Mountains",
+                "attractText": "Velliangiri Mountains, located near Coimbatore, are a popular trekking destination in the Western Ghats..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Coimbatore/hikings/Top+Slip+-+Pandaravarai+.webp",
+                "attractPara": "Top Slip and Pandaravarai",
+                "attractText": "Top Slip and Pandaravarai, located in the Anamalai Hills near Coimbatore, are popular destinations..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Coimbatore/hikings/sembukarai.webp",
+                "attractPara": "Sembukarai",
+                "attractText": "Sembukarai, located near Coimbatore, is a hidden gem for hiking and nature lovers. The trek to Sembukarai..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Coimbatore/hikings/Maruthamalai_Rajagopuram.webp",
+                "attractPara": "Marudamalai Temple",
+                "attractText": "Marudamalai Temple, located on a hilltop in Coimbatore, Tamil Nadu, is a revered Hindu temple dedicated..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Coimbatore/hikings/barliar.webp",
+                "attractPara": "Barliar",
+                "attractText": "Barliar, a serene village located in the foothills of the Western Ghats near Coimbatore, is a popular destination..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Coimbatore/Hills/Valparai.webp",
+                "attractPara": "Valparai",
+                "attractText": "Valparai, a serene hill station in Tamil Nadu, is nestled in the Anamalai Hills of the Western Ghats. Known for its lush..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Coimbatore/museums/government+museum.webp",
+                "attractPara": "Government Museum",
+                "attractText": "The Government Museum in Coimbatore, Tamil Nadu, is a prominent cultural and historical landmark..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Coimbatore/museums/Tamil+Nadu+Agricultural+University+(TNAU)+Agricultural+College+and.webp",
+                "attractPara": "(TNAU) Agricultural College Museum",
+                "attractText": "The Tamil Nadu Agricultural University (TNAU) Agricultural College Museum, located in Coimbatore, is an educational..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Coimbatore/museums/coimbatore+science+center+and+planetarium.webp",
+                "attractPara": "Coimbatore Science Center",
+                "attractText": "The Coimbatore Science Center and Planetarium, located in Coimbatore, Tamil Nadu, is an interactive hub..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Coimbatore/museums/Gedee_Car_Museum.webp",
+                "attractPara": "Gedee Car Museum",
+                "attractText": "Gedee Car Museum, located in Coimbatore, Tamil Nadu, is a unique automobile museum showcasing..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Coimbatore/Temples/perur-pateeswarar-temple.webp",
+                "attractPara": "Perur Pateeswarar Temple",
+                "attractText": "Perur Pateeswarar Temple, located in Coimbatore, Tamil Nadu, is an ancient and significant Hindu temple..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Coimbatore/Temples/Sree-Ayyappan_Temple-vmake.webp",
+                "attractPara": "Sree Ayyappan Temple",
+                "attractText": "Sree Ayyappan Temple, located in Coimbatore, Tamil Nadu, is a revered temple dedicated to Lord Ayyappa..."
+            }
+        ],       
+        [
+            {
+                "title":"Cuddalore: A Historic and Cultural Jewel of Tamil Nadu",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Cuddalore/Beaches/silver-beach.webp",
+                "attractPara": "Silver Beach",
+                "attractText": "Silver Beach in Cuddalore district is known for its pristine shoreline and tranquil waters. It’s a popular spot for..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Cuddalore/museums/govt-mueseums.webp",
+                "attractPara": "Government Museum",
+                "attractText": "Cuddalore district is home to a Government Museum that showcases the region's rich cultural heritage and history..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Cuddalore/backwaters/pichavaram-mangrove-forest.webp",
+                "attractPara": "Pichavaram Mangrove Forest",
+                "attractText": "Located near Chidambaram in Tamil Nadu, the Pichavaram Mangrove Forest is one of the largest mangrove ecosystems..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Cuddalore/backwaters/Parangipettai+Backwaters+.webp",
+                "attractPara": "Parangipettai Backwater",
+                "attractText": "Parangipettai, located in Cuddalore district, is a coastal town known..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Cuddalore/Hills/Bhuvanagiri+Hill+.webp",
+                "attractPara": "Bhuvanagiri Hill",
+                "attractText": "Bhuvanagiri Hill in Cuddalore district is a serene destination known for its natural beauty and spiritual..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Cuddalore/backwaters/Vellar_River.webp",
+                "attractPara": "Vellar River backwater",
+                "attractText": "The Vellar River backwater in Cuddalore district is a serene and picturesque waterbody..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Cuddalore/forts/fort+of+nellikuppam.webp",
+                "attractPara": "Nellikuppam Fort",
+                "attractText": "The Fort of Nellikuppam, situated in Cuddalore district, is a testament to the region’s colonial history..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Cuddalore/Beaches/bhuvanagiri-beach.webp",
+                "attractPara": "Bhuvanagiri Beach",
+                "attractText": "Bhuvanagiri Beach in Cuddalore district is a hidden gem known for its pristine..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Cuddalore/forts/fort-st-david.webp",
+                "attractPara": "Fort St. David",
+                "attractText": "Fort St. David, located in Cuddalore district, is a historic British fort that played a significant role..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Cuddalore/Temples/vriddhagireeswarar-vriddhachalam-cuddalore.webp",
+                "attractPara": "Virudhagiriswarar Temple",
+                "attractText": "Virudhagiriswarar Temple, situated on a hill in Cuddalore district, is dedicated to Lord Shiva..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Cuddalore/Temples/Thiruvahindrapuram+Temple+.webp",
+                "attractPara": "Thiruvahindrapuram Temple",
+                "attractText": "The Thiruvahindrapuram Temple in Cuddalore district is dedicated to Lord Adhi Jagannatha Perumal..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Cuddalore/Temples/Veerattaneswarar+Temple+.webp",
+                "attractPara": "Veerattaneswarar Temple",
+                "attractText": "Veerattaneswarar Temple in Cuddalore district is dedicated to Lord Shiva and is known..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Cuddalore/Temples/vriddhagireeswarar-vriddhachalam-cuddalore.webp",
+                "attractPara": "Vriddhagireeswarar Temple",
+                "attractText": "The Vriddhagireeswarar Temple, located in Vriddhachalam, Cuddalore district, is an ancient Shiva..."
+            }
+        ],
+        [
+            {
+                "title":"Dharmapuri: The Land of History, Culture, and Natural Beauty",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dharmapuri/waterfalls/hogenakkal.webp",
+                "attractPara": "Hogenakkal Waterfalls",
+                "attractText": "Hogenakkal Waterfalls is a stunning natural attraction located in the Dharmapuri district..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dharmapuri/palaces/Thoppur+Palace+.webp",
+                "attractPara": "Thoppur Palace ",
+                "attractText": "Thoppur Palace is a historical structure that reflects the grandeur of the past..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dharmapuri/Hills/sitheri-hills.webp",
+                "attractPara": "Sitheri Hills",
+                "attractText": "Sitheri Hills is a scenic hill station known for its cool climate... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dharmapuri/forts/Adhiyaman+Fort+.webp",
+                "attractPara": "Adhiyaman Fort",
+                "attractText": "Adhiyaman Fort is a historical fort known for its architectural beauty and... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dharmapuri/forts/Kottai-KovilDharmapuri.webp",
+                "attractPara": "Kottai Kovil Fort",
+                "attractText": "Kottai Kovil Fort is a historical site known for its architectural elegance..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dharmapuri/backwaters/Ramakkal+Lake+.avif",
+                "attractPara": "Ramakkal Lake Backwaters",
+                "attractText": "Ramakkal Lake Backwaters is a serene and picturesque destination ideal for nature lovers and peace..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dharmapuri/backwaters/Vaiyar_Dam.webp",
+                "attractPara": "Vaiyar Dam Backwaters",
+                "attractText": "Vaiyar Dam Backwaters , is a tranquil destination known for its scenic beauty and serene environment..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dharmapuri/museums/Government+Museum%2C+Dharmapuri.webp",
+                "attractPara": "Government Museum",
+                "attractText": "Government Museum is an informative cultural hub showcasing the rich heritage... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dharmapuri/Temples/Theerthamalai+Temple+.webp",
+                "attractPara": "Theerthamalai Temple",
+                "attractText": "Theerthamalai Temple is a revered hilltop temple dedicated to Lord Shiva..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dharmapuri/Temples/Adhiyamankottai+Temple+(Chennimalai+Perumal+Temple).webp",
+                "attractPara": "Adhiyamankottai Temple",
+                "attractText": "Adhiyamankottai Temple is a revered Hindu shrine located in the picturesque town of Dharmapuri..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dharmapuri/Temples/Kottai-kovil.webp",
+                "attractPara": "Kottai Kovil Temple",
+                "attractText": "Kottai Kovil Temple is an ancient and revered temple dedicated to Lord Subramanya..."
+            }
+        ],
+        [
+            {
+                "title":"Dindigul: A Blend of Heritage, Nature, and Modernity",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/Temples/arulmigu-dhandayuthapani-swamy-temple-palani.webp",
+                "attractPara": "Dhandayuthapani Swamy Temple",
+                "attractText": "Arulmigu Dhandayuthapani Swamy Temple, located in Palani, Tamil Nadu, is one of the most revered pilgrimage sites dedicated to Lord Murugan..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/Hills/kodaikaanal.webp",
+                "attractPara": "Kodaikanal Hills",
+                "attractText": "The hills are dotted with diverse flora and fauna, making it a popular destination for nature lovers, trekkers, and adventure enthusiasts..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/museums/kodaikanal-solar-observatory-museum.webp",
+                "attractPara": "Kodaikanal Solar Museum",
+                "attractText": "The Kodaikanal Solar Observatory Museum, situated in the picturesque hill station of Kodaikanal, Tamil Nadu, is a hub of astronomical learning and exploration..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/backwaters/kamarajar-lake.webp",
+                "attractPara": "Kamarajar Lake",
+                "attractText": "Kamarajar Lake in Dindigul district is a peaceful retreat, surrounded by scenic hills and abundant natural beauty... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/backwaters/palar-dam.webp",
+                "attractPara": "Palar Dam",
+                "attractText": "Palar Dam in Dindigul district serves as a vital resource for irrigation and drinking water in the region... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/Hills/berijam-lake.webp",
+                "attractPara": "Berijam Lake",
+                "attractText": "Berijam Lake, located in the Dindigul district, is a serene freshwater reservoir surrounded by dense forests, offering a tranquil retreat for nature lovers..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/forts/dindugul-fort.webp",
+                "attractPara": "Dindugul Fort",
+                "attractText": "Dindugul Fort is a testament to Tamil Nadu's architectural and historical brilliance..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/wildlife/kodaikanal+wildlife.webp",
+                "attractPara": "Kodaikanal Wildlife Sanctuary",
+                "attractText": "Kodaikanal Wildlife Sanctuary is a paradise for wildlife enthusiasts, offering an unparalleled opportunity to experience the beauty and biodiversity of the Western Ghats..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/wildlife/silent-valley-view.webp",
+                "attractPara": "Silent valley view",
+                "attractText": "Silent Valley View is a must-visit destination for anyone seeking peace, natural beauty, and a refreshing retreat amidst nature... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/wildlife/sirumalai-reserved-forest.webp",
+                "attractPara": "Sirumalai Reserved Forest",
+                "attractText": "Sirumalai Reserved Forest in Dindigul district is a significant natural area, supporting diverse wildlife and maintaining ecological balance. Its rich biodiversity and scenic landscapes make it a key destination for nature lovers..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/Hills/palani.webp",
+                "attractPara": "Palani Hill",
+                "attractText": "Palani Hills, located in the Dindigul district of Tamil Nadu, are a part of the Western Ghats and are renowned for their scenic beauty, biodiversity, and spiritual significance... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/Hills/pillar-rocks.webp",
+                "attractPara": "Pillar Rocks Hill",
+                "attractText": "Pillar Rocks is a captivating destination that offers a perfect blend of natural beauty, adventure, and tranquility..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/Hills/vattakanal-falls.webp",
+                "attractPara": "Vattakanal Hill",
+                "attractText": "Vattakanal hill offers a refreshing escape into nature, making it an ideal destination for those seeking peace, adventure, and scenic beauty..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/museums/shenbaganur-museum.webp",
+                "attractPara": "Shenbaganur Museum",
+                "attractText": "The museum provides insights into the rich history, culture, and biodiversity of the region, offering a unique blend of learning and exploration for visitors of all ages... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/waterfalls/Silver+Cascade+Waterfall+.webp",
+                "attractPara": "Silver Cascade Waterfalls",
+                "attractText": "Silver Cascade Waterfall is an iconic natural wonder, offering a peaceful and refreshing experience. Its beauty and proximity to Kodaikanal town make it a must-visit spot for travelers... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/waterfalls/pambar-falls.webp",
+                "attractPara": "Pambar Waterfalls",
+                "attractText": "Pambar Falls is a serene getaway, perfect for nature lovers and adventure enthusiasts. Its tranquil setting and natural beauty make it a popular destination for relaxation and exploration..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/waterfalls/kumbakkarai-falls.webp",
+                "attractPara": "Kumbakkarai Falls",
+                "attractText": "Kumbakarai Falls is a captivating natural wonder, offering visitors an opportunity to connect with nature... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/waterfalls/sirumalai-aruvi.webp",
+                "attractPara": "Sirumalai Falls",
+                "attractText": "Sirumalai Waterfalls is a hidden gem, offering a calm and rejuvenating experience. Its natural beauty makes it a perfect destination for nature enthusiasts... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/Temples/abirami.webp",
+                "attractPara": " Arulmigu Sri Abirami Temple",
+                "attractText": "Abirami Temple is a must-visit spiritual destination in Dindugul, known for its divine atmosphere and architectural beauty..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/Temples/Ramalingampatti+Sri+Pathala+Sembu+Murugan+.webp",
+                "attractPara": "Ramalingampatti Sri Pathala Sembu Murugan",
+                "attractText": "Ramalingampatti Sri Pathala Sembu Murugan Temple is a must-visit destination for pilgrims and nature lovers alike. Its divine atmosphere..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Dindugul/Temples/soundararaja-perumal-temple.webp",
+                "attractPara": "Soundararaja Perumal-Temple",
+                "attractText": "Soundararaja Perumal Temple is a must-visit destination for its spiritual ambiance, historical significance, and architectural beauty..."
+            }
+        ],
+        [
+            {
+                "title":"Erode: A Confluence of History, Culture, and Agriculture",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Erode/Temples/Thindal+Murugan+Temple+.webp",
+                "attractPara": "Thindal Murugan Temple",
+                "attractText": "Thindal Murugan Temple, located in Erode district, Tamil Nadu, is a revered shrine dedicated to Lord Murugan, the Tamil god of wisdom and valor..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Erode/wildlife/Chennimalai+Forest+Area+.webp",
+                "attractPara": "Chennimalai Forest",
+                "attractText": "Chennimalai Forest Area, located in the foothills of the Western Ghats in Erode district, Tamil Nadu, is a rich and diverse natural habitat... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Erode/waterfalls/-Kodiveri.webp",
+                "attractPara": "Kodiveri Waterfall",
+                "attractText": "Kodiveri Waterfalls, located in the Erode district of Tamil Nadu, is a stunning natural attraction that draws visitors with its scenic beauty and refreshing ambiance..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Erode/wildlife/vellode-bird-sanctuarywebp.webp",
+                "attractPara": "Vellode Bird Sanctuary",
+                "attractText": "Vellode Bird Sanctuary, located near Erode in Tamil Nadu, is a serene and picturesque sanctuary known for its diverse avian population... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Erode/forts/sathyamangalam-fort.webp",
+                "attractPara": "Sathyamangalam Fort",
+                "attractText": "Sathyamangalam Fort, located in the Sathyamangalam region of Erode district, Tamil Nadu, is an ancient fort built by the Mysore rulers... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Erode/forts/Perundurai+Fort+jpg.webp",
+                "attractPara": "Perundurai Fort",
+                "attractText": "Perundurai Fort, located in the Erode district of Tamil Nadu, is a historic landmark that dates back to the 16th century..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Erode/Temples/Bannari_Amman_Temple.webp",
+                "attractPara": "Bannari Amman Temple",
+                "attractText": "Bannari Amman Temple, located in the town of Bannari in Erode district, Tamil Nadu, is a famous Hindu temple dedicated to Goddess Bannari Amman, a form of Durga... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Erode/Temples/Bhavani+Sangameswarar+Temple+.webp",
+                "attractPara": "Bhavani Sangameshwarar Temple",
+                "attractText": "Bhavani Sangameshwaran Temple, located in Bhavani town, Erode district, Tamil Nadu, is a revered temple dedicated to Lord Shiva... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Erode/Temples/Chennimalai+Murugan+Temple+.webp",
+                "attractPara": "Chennimalai Murugan Temple",
+                "attractText": "Chennimalai Murugan Temple, located in the Chennimalai hill range of Erode district, Tamil Nadu, is a revered shrine dedicated to Lord Murugan..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Erode/Temples/Kodumudi_(11).webp",
+                "attractPara": "Kodumudi Velayudha Swamy Temple",
+                "attractText": "Kodumudi, located in the Erode district of Tamil Nadu, is a charming town known for its historical and spiritual significance... "
+            }
+        ],
+        [
+            {
+                "title":"Kallakurichi: A Blend of Tradition and Modernity",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Kallakurichi/Hills/kalvarayan.webp",
+                "attractPara": "Kalvarayan Hills",
+                "attractText": "Kalvarayan Hills is a picturesque hill range located in the Kallakurichi district of Tamil Nadu..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Balance/megam+falls.webp",
+                "attractPara": "Megan Falls",
+                "attractText": "Megam Falls is a serene waterfall near Kallakurichi, ideal for trekking and nature lovers seeking tranquility amidst lush landscapes. ..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Balance/Kabilar+kundru.webp",
+                "attractPara": "Kabilar Kundru",
+                "attractText": "Kabilar Kundru, situated near Thirukoilur in Tamil Nadu's Kallakurichi district, is a significant historical and cultural site. Located in the middle of the Pennaiyar River..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Balance/Gomukhi+dam+view+point.webp",
+                "attractPara": "Gomukhi Dam",
+                "attractText": "Gomukhi Dam View Point, situated near Kallakurichi in Tamil Nadu, offers visitors a serene and picturesque experience. The dam, located at the foothills of the Kalvarayan Hills..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Balance/kaviyam+falls.webp",
+                "attractPara": "Kaviyam Falls",
+                "attractText": "Kaviyam Falls, nestled in the Kalrayan Hills of Tamil Nadu, is a hidden gem known for its pristine beauty and serene environment. ..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Balance/thiyagadurgam+fort.webp",
+                "attractPara": "Thiyagaduram Fort",
+                "attractText": "Thiyagadurgam Fort, located near Kallakurichi in Tamil Nadu's Kallakurichi district, is a historic hill fort renowned for its ancient architecture and panoramic views..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Kallakurichi/temple/koovam+koothandavar.webp",
+                "attractPara": "Koovam Koothandavar Temple",
+                "attractText": "Koovam Koothandavar Temple is an ancient temple located in the village of Koovam, near Kallakurichi..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Kallakurichi/temple/thirukkoilur.webp",
+                "attractPara": "Thirukkoilur Ulagalanda Perumal Temple",
+                "attractText": "Thirukkoilur Ulagalanda Perumal Temple id Dedicated to Lord Vishnu in his Ulagalanda Perumal..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Kallakurichi/temple/Rishivandiyam+ardhanareewara.webp",
+                "attractPara": "Rishivandiyam Ardhanareeswarar Temple",
+                "attractText": "Rishivandiyam Ardhanareeswarar Temple is a revered Hindu temple located in the village of Rishivandiyam..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Kallakurichi/temple/Arakandanallur+Pandava+Cave+Templejpg.webp",
+                "attractPara": "Arakandanallur Pandava Cave Temple",
+                "attractText": "Arakandanallur Pandava Cave Temple is an ancient temple located in the village of Arakandanallur..."
+            }
+        ],
+        [
+            {
+                "title":"Kanchipuram: A Tapestry of Spirituality, History, and Culture",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/KANCHIPURAM/BACKWATERS/MUTTAKAD+BACKWATER.webp",
+                "attractPara": "Muttakadu Backwater",
+                "attractText": "Muttakadu Backwater is a scenic water body located along the Chennai-ECR..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/KANCHIPURAM/MUSEUM/GOVERNMENT+MUSEUM+KANCHIPURAM.webp",
+                "attractPara": "Government Museum",
+                "attractText": "is a treasure trove of history, culture, and art. It showcases a wide range..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/KANCHIPURAM/TEMPLE/Vaikunta+Perumal+Temple.webp",
+                "attractPara": "Vaikunta Perumal Temple",
+                "attractText": "Vaikunta Perumal Temple is an ancient and significant temple dedicated to Lord Vishnu..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/KANCHIPURAM/TEMPLE/CHITRA+KUPTA.webp",
+                "attractPara": "Chitra Gupta Temple",
+                "attractText": "Chitra Gupta Temple is dedicated to Lord Chitra Gupta, the divine scribe and the assistant of Yama..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/KANCHIPURAM/TEMPLE/KAILASANATHAR+TEMPLE.webp",
+                "attractPara": "Kailasanathar Temple",
+                "attractText": "Kailasanathar Temple is a significant historical and architectural marvel dedicated to Lord Shiva..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/KANCHIPURAM/TEMPLE/Ekambareswarar+TEMPLE.webp",
+                "attractPara": "Ekambareswarar Temple",
+                "attractText": "Ekambareswarar Temple , is one of the most prominent temples dedicated to Lord Shiva..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/KANCHIPURAM/TEMPLE/KAMAKSHI+AMMAN+TEMPLE.webp",
+                "attractPara": "Kamakshi Amman Temple",
+                "attractText": "Kamakshi Amman Temple is one of the most revered temples dedicated to Goddess Kamakshi..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/KANCHIPURAM/TEMPLE/ULAGALANTHA+PERUMAL+TEMPLE.webp",
+                "attractPara": "Ulagalantha Perumal Temple",
+                "attractText": "Ulagalantha Perumal Temple is an ancient and revered temple dedicated to Lord Vishnu..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/KANCHIPURAM/TEMPLE/pandava-thoothar-perumal.webp",
+                "attractPara": "Pandava Thoothar Perumal Temple",
+                "attractText": "Pandava Thoothar Perumal Temple is an ancient temple dedicated to Lord Vishnu..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/KANCHIPURAM/MUSEUM/KANCHI+KUDIL.webp",
+                "attractPara": "Kanchi Kudil Museum",
+                "attractText": "Kanchi Kudil Museum is a unique cultural museum that offers visitors..."
+            }
+        ],    
+        [
+            {
+                "title":"Kanyakumari: The Southern Gem of India",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/Rectangle+4540.webp",
+                "attractPara": "Vivekananda Rock Memorial",
+                "attractText": "This iconic monument is situated on a small rocky island..."            
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/Rectangle+4541.webp",
+                "attractPara": "Thiruvalluvar Statue",
+                "attractText": "Standing at a height of 133 feet, this colossal statue is dedicated to..."            
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/Rectangle+4542.webp",
+                "attractPara": "Bhagavathy Amman Temple",
+                "attractText": "Dedicated to Goddess Kanya Kumari, this temple is one of the 108..."            
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/kanyakumaribeach.webp",
+                "attractPara": "Kanyakumari Beach",
+                "attractText": "The southernmost district in mainland India, Kanniyakumari is the..."            
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/sanguthuraibeach.webp",
+                "attractPara": "Sanguthurai Beach",
+                "attractText": "Attractions at Sanguthurai Beach are a play area for children, a conc..."            
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/sothavilabeach.webp",
+                "attractPara": "Sothavilai Beach",
+                "attractText": "The Sotha Vilai beach is among the most important beaches in the..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/muttombeach.webp",
+                "attractPara": "Muttom Beach",
+                "attractText": "Muttom is a village in Kanyakumari District of Tamil..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/thengapattinambeach.webp",
+                "attractPara": "Thengapattinam Beach",
+                "attractText": "Thengapattinam, thennaipattinam and thenpattinam..." 
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/vattakotaibeach.webp",
+                "attractPara": "Vattakotai Beach",
+                "attractText": "The less crowded stretch of the Indian Ocean shoreline..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/lemurbeach.webp",
+                "attractPara": "Lemur Beach",
+                "attractText": "Lemur Beach Ganapathipuram Beach Lemur Beach also known as..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/lighthousebeach.webp",
+                "attractPara": "Lighthouse Beach",
+                "attractText": "Lighthouse Beach is a hot favourite in the Kovalam area..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/obsrvationtower.webp",
+                "attractPara": "Observation Tower",
+                "attractText": "This is basically a tower which is located on the main beach in ..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/paraikaibeach.webp",
+                "attractPara": "Paraikal beach",
+                "attractText": "Padmanabhapuram Palace is 19 km from the lodge, while Poovar..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/Rectangle+4549.webp",
+                "attractPara": "Guganathaswamay Temple",
+                "attractText": "A little known temple right in the middle of the city is actually a very..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/Rectangle+4550.webp",
+                "attractPara": "Athikesava Perumal Temple",
+                "attractText": "The Adikesava Perumal Temple is a Perumal temple located in Thiruvattar..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/Rectangle+4552.webp",
+                "attractPara": "Thanumalaiyan Temple",
+                "attractText": "The Thanumalayan Temple, also called  Sthanumalayan Temple..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/Rectangle+4553.webp",
+                "attractPara": "Nagaraja Temple",
+                "attractText": "Nagaraja Temple is an early large temple found in the city of Nagercoil..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/Rectangle+4554.webp",
+                "attractPara": "Our lady Ransom Church",
+                "attractText": "In 1542 when St. Francis Xavier came to Cape Comerin..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/Rectangle+4555.webp",
+                "attractPara": "St. Xavier Church",
+                "attractText": "St. Francis Xavier's Cathedral, Kottar, also known as St. Xavier..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/kanyakumaritourplaces/Rectangle+4556.webp",
+                "attractPara": "Peer Mohammed Durha",
+                "attractText": "Peer Mohamed Oliyullah Dargha is named after the Sufi philosopher...."
+            }
+        ],
+        [
+            {
+                "title":"Karur: The Heart of Tamil Nadu’s Textile Industry",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/karur/hills/_vennamalai.webp",
+                "attractPara": "Vennamalai Hills",
+                "attractText": "Vennamalai Hills is a picturesque and spiritually significant destination..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/karur/temple/arulmigu-balasubramanian-temple-vennamalai-karur-temples-YiOY0QzYz9.webp",
+                "attractPara": "Arulmigu Sri Balasubramanian Temple",
+                "attractText": "Arulmigu Sri Balasubramanian Temple is a revered temple dedicated to Lord..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/karur/mesuem/Government+Museum%2C+Karur.webp",
+                "attractPara": "Government Museum",
+                "attractText": "Government Museum is a treasure trove of history, culture, and art..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/karur/hills/pugali_hills.webp",
+                "attractPara": "Pugali Hills",
+                "attractText": "Pugali Hills is a serene and picturesque destination known for its natural beauty..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/karur/temple/arulmigu-vanjaleshwarar-kovil-4540403.webp",
+                "attractPara": "Arulmigu Sri Vanjaleshwarar Temple",
+                "attractText": "Arulmigu Sri Vanjaleshwarar Temple is a revered temple dedicated to Lord Shiva..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/karur/temple/Sri+Kalyana+Pasupatheswarar+Temple.webp",
+                "attractPara": "Sri Kalyana Pasupatheswarar Temple",
+                "attractText": "Sri Kalyana Pasupatheswarar Temple is an ancient and revered temple dedicated to..."
+            }
+        ],
+        [
+            {
+                "title":"Krishnagiri: The Scenic District of Tamil Nadu",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Krishnagiri/Backwters/2022-06-24.webp",
+                "attractPara": "Krishnagiri Reservoir",
+                "attractText": "Krishnagiri Reservoir, located in Krishnagiri district, is one of the largest water bodies in Tamil Nadu, playing a crucial..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Krishnagiri/Museum/Krishnagiri+Museum.webp",
+                "attractPara": "Krishnagiri Museum",
+                "attractText": "The Krishnagiri Museum in Krishnagiri district is a cultural repository showcasing the region’s history, artifacts, and..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Krishnagiri/Heritage/1.+Krishnagiri+fort.webp",
+                "attractPara": "Krishnagiri Fort",
+                "attractText": "Krishnagiri Fort, located in the Krishnagiri district of Tamil Nadu, is a historic fort perched on a hilltop offering..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Krishnagiri/Temples/3.++Rayakottai+Temple.webp",
+                "attractPara": "Rayakottai Temple",
+                "attractText": "The Rayakottai Temple, situated within the Rayakottai Fort in Krishnagiri district, Tamil Nadu, is an ancient structure..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Krishnagiri/Hills/Shoolagiri.webp",
+                "attractPara": "Shoolagiri Hill",
+                "attractText": "Shoolagiri Hill in Krishnagiri district, Tamil Nadu, is renowned for its scenic beauty and religious significance. The hilltop..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Krishnagiri/Temples/1.+krishnagiri+fort+Temple.webp",
+                "attractPara": "Krishnagiri Fort Temple",
+                "attractText": "The Krishnagiri Fort Temple, located in Krishnagiri district, Tamil Nadu, is a historic site steeped in cultural and architectural..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Krishnagiri/Temples/2.+Arulmighu+Chandra+Choodeswarar+Temple.webp",
+                "attractPara": "Arulmighu Chandra Choodeswarar Temple",
+                "attractText": "Arulmighu Chandra Choodeswarar Temple, located on a hilltop in Krishnagiri district, Tamil Nadu, is dedicated to..."
+            }
+        ],
+        [
+            {
+                "title" :"Madurai: The Cultural Capital of Tamil Nadu",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/madurai/hills/download.webp",
+                "attractPara": "Yannai Malai",
+                "attractText": "Yannai Malai, also known as Elephant Hill, is a striking hill located near Madurai, Tamil Nadu. Resembling the shape..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/madurai/temple/madurai6.webp",
+                "attractPara": "Meenakshi Amman Temple",
+                "attractText": "The Meenakshi Amman Temple, located in Madurai, Tamil Nadu, is a magnificent symbol of Tamil culture and architecture..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/madurai/hills/Vaigai+Dam.webp",
+                "attractPara": "Vaigai Dam",
+                "attractText": "The Vaigai Dam, an engineering marvel, is located in Theni district, Tamil Nadu, across the Vaigai River. Constructed in 1959..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/madurai/hiking/Samanar+Hills+(Samanar+Malai).webp",
+                "attractPara": "Samanar Hills",
+                "attractText": "Samanar Hills, located near Keelakuyilkudi village in Madurai, Tamil Nadu, is a historic site renowned for its ancient..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/madurai/hills/Kutladampatti+Falls+-+India.webp",
+                "attractPara": "Kutladampatti Falls",
+                "attractText": "Kutladampatti Falls, located about 35 km from Madurai, is a scenic waterfall nestled in the Western Ghats..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/madurai/museum/Madurai-Government-Museum_4.webp",
+                "attractPara": "Government Museum",
+                "attractText": "The Government Museum in Madurai, established in 1980, is a treasure trove of South Indian heritage..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/madurai/hills/Dwarfed+by+the+monumental+Thirumalai+Nayakar+Palace+in+Madurai+-+Thrilling+Travel.webp",
+                "attractPara": "Thirumalai Nayak Palace",
+                "attractText": "Thirumalai Nayak Palace, located in Madurai, Tamil Nadu, is a remarkable example of Indo-Saracenic architecture..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/madurai/temple/alagar+kovil+image1.webp",
+                "attractPara": "Alagar Kovil",
+                "attractText": "Alagar Kovil, located about 21 km from Madurai in Tamil Nadu, is a renowned temple dedicated to Lord Vishnu..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/madurai/museum/Gandhi+Memorial+Museum2.webp",
+                "attractPara": "Gandhi Memorial Museum",
+                "attractText": "The Gandhi Memorial Museum in Madurai is a prominent landmark dedicated to Mahatma Gandhi, showcasing his..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/madurai/temple/pazharmudircholai1.webp",
+                "attractPara": "Pazhamudircholai Murugan Temple",
+                "attractText": "Pazhamudircholai Murugan Temple, located about 25 km from Madurai, is one of the six abodes of Lord Murugan..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/madurai/temple/isckon3.webp",
+                "attractPara": "ISKCON Temple",
+                "attractText": "aThe ISKCON Temple in Madurai, located on the outskirts of the city, is a vibrant center of devotion dedicated..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/madurai/famous/Kazimar+Big+Mosque+and+Maqbara3.webp",
+                "attractPara": "Kazimar Periya Pallivasal",
+                "attractText": "Kazimar Periya Pallivasal is an ancient and historic street located in Madurai, Tamil Nadu, renowned for its..."
+            }
+        ],
+        [
+            {
+                "title":"Mayiladuthurai: The Cultural and Spiritual Heart of Tamil Nadu",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/MAYILADUDHURAI/TEMPLES/MAYURANATHAR+TEMPLE.webp",
+                "attractPara": "Mayuranathar Temple ",
+                "attractText": "Mayuranathar Temple is an ancient and prominent Hindu temple dedicated to Lord..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/MAYILADUDHURAI/MUSEUM/POOMBUHAR+MUSEUM.webp",
+                "attractPara": "Poompuhar Museum ",
+                "attractText": "Poompuhar Museum showcases the rich cultural heritage and history of the region..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/MAYILADUDHURAI/BEACH/POOMBUHAR+BEACH.webp",
+                "attractPara": "Poompuhar Beach",
+                "attractText": "Poompuhar Beach is a serene and beautiful coastal destination and Known for..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/MAYILADUDHURAI/TEMPLES/PARIMALA+RANGANATHAR+TEMPLE.webp",
+                "attractPara": "Parimala Ranganathar Temple ",
+                "attractText": "The Parimala Ranganathar Temple is a revered Hindu temple dedicated to Lord..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/MAYILADUDHURAI/TEMPLES/THIRUKADAIYUR+AMIRTHAKADESWARAR+TEMPLE.webp",
+                "attractPara": "Thirukadaiyur Amirthakadeswarar ",
+                "attractText": "Thirukadaiyur Amirthakadeswarar is a prominent Shiva temple dedicated to Lord..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/MAYILADUDHURAI/TEMPLES/THIRUVIDAIMARUTHUR+TEMPLE.webp",
+                "attractPara": "Thiruvidaimaruthur Temple ",
+                "attractText": "The temple is renowned for its rich history and beautiful architecture, and it is..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/MAYILADUDHURAI/BACKWATER/poompuhar-RIVER+MOUTH.webp",
+                "attractPara": "Poompuhar River Mouth Backwaters",
+                "attractText": "Poompuhar River Mouth Backwaters is a tranquil and scenic spot where the river..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/MAYILADUDHURAI/TEMPLES/VAIDESWARAN+TEMPLE.webp",
+                "attractPara": "Vaideswaran Temple ",
+                "attractText": "Vaideswaran Temple , is a prominent Shiva temple dedicated to Lord Vaideswaran..."
+            }
+        ],
+        [
+            {
+                "title":"Nagapattinam: A Blend of Culture, History, and Coastal Beauty",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/NAGAPPATTINAM/BEACH/VELANKANNI+BEACH.webp",
+                "attractPara": "Velankanni Beach",
+                "attractText": "Velankanni Beach is a popular coastal destination known for its tranquil beauty..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/NAGAPPATTINAM/BACKWATER/KOLLIDAM+RIVER+NAGAPPATTINAM.webp",
+                "attractPara": "Kollidam River Backwater",
+                "attractText": "Kollidam River Backwater offer a peaceful and scenic retreat, with lush green landscapes..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/NAGAPPATTINAM/BEACH/VEDARANYAM+BEACH.webp",
+                "attractPara": "Vedaranyam Beach",
+                "attractText": "Vedaranyam Beach is a tranquil and lesser-known coastal destination..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/NAGAPPATTINAM/BEACH/NAGAPPATTINAM++BEACH.webp",
+                "attractPara": "Nagapattinam Beach ",
+                "attractText": "Nagapattinam Beach is a serene and scenic beach located in the coastal town..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/NAGAPPATTINAM/TEMPLES/BRAHMMAPUREESWARAR+TEMPLE.webp",
+                "attractPara": "Brahmapureeswarar Temple",
+                "attractText": "Brahmapureeswarar Temple is an ancient and significant Hindu temple dedicated..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/NAGAPPATTINAM/MUSEUM/GOVERNMENT+MUSEUM+NAGAPPATTINAM.webp",
+                "attractPara": "Government Museum",
+                "attractText": "Government Museum is a treasure trove of historical and..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/NAGAPPATTINAM/HERITAGE/VELANKANNI+CHURCH.webp",
+                "attractPara": "Velankanni Church",
+                "attractText": "Velankanni Church , is a revered Christian pilgrimage site located... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/NAGAPPATTINAM/HERITAGE/NAGORE+DARGAH+(1).webp",
+                "attractPara": "Nagore Dargah",
+                "attractText": "Nagore Dargah is a revered shrine dedicated..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/NAGAPPATTINAM/MUSEUM/Marittime+museum.webp",
+                "attractPara": "Maritime Museum",
+                "attractText": "Maritime Museum is dedicated to preserving and showcasing the maritime history..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/NAGAPPATTINAM/HERITAGE/NAGAPPATTINAM+FORT.webp",
+                "attractPara": "Nagapattinam Fort",
+                "attractText": "Nagapattinam Fort was originally built by the Portuguese in the 16th century..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/NAGAPPATTINAM/TEMPLES/soundararaja-perumal.webp",
+                "attractPara": "Soundararaja Perumal Temple",
+                "attractText": "Soundararaja Perumal Temple is an ancient and revered shrine dedicated..."
+            }
+        ],
+        [
+            {
+                "title":"Namakkal: A Glimpse into History, Culture, and Nature",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/namakkal/Hills/1.+Kolli+Hills.webp",
+                "attractPara": "Kolli Hills",
+                "attractText": "Kolli Hills Reservoir, also known as Kolli Hills Water Body, is located in Namakkal district, Tamil Nadu. This reservoir..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/namakkal/Waterfalls/1.+Agaya+Gangai+Falls.webp",
+                "attractPara": "Agaya Gangai Waterfalls",
+                "attractText": "Agaya Gangai Waterfalls, located in Namakkal district, Tamil Nadu, is a scenic waterfall situated in the Kolli Hills range..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/namakkal/Backwater/jedarpalayam+dam.webp",
+                "attractPara": "Jedarpalayam Dam",
+                "attractText": "Jedarpalayam Dam in Namakkal district, Tamil Nadu, is an important water storage and irrigation facility..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/namakkal/fort/namakkal+fort.webp",
+                "attractPara": "Nammakkal Fort",
+                "attractText": "Nammakkal Fort, located in Namakkal district, Tamil Nadu, is a historic fortress perched on a rock hill. This fort, built..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/namakkal/Waterfalls/2.+Masila+falls.webp",
+                "attractPara": "Masila Falls",
+                "attractText": "Masila Falls, located in Namakkal district, Tamil Nadu, is a picturesque waterfall nestled in the Kolli Hills..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/namakkal/Temples/3.+Arthaneeshwarar.webp",
+                "attractPara": "Arthanareeswarar Temple",
+                "attractText": "The Arthanareeswarar Temple in Namakkal district, Tamil Nadu, is a significant Hindu shrine dedicated..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/namakkal/Temples/1.+namakkal+Anjaneyar.webp",
+                "attractPara": "Namakkal Anjaneyar Temple",
+                "attractText": "The Namakkal Anjaneyar Temple, located in Namakkal district, Tamil Nadu, is a prominent shrine dedicated to Lord Hanuman..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/namakkal/Temples/2.+narasimha+swamy.webp",
+                "attractPara": "Namakkal Narasivarma Swamy Temple",
+                "attractText": "The Namakkal Narasivarma Swamy Temple, located in Namakkal district, Tamil Nadu, is a historic Hindu temple..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/namakkal/Temples/4.+Kailasanather+temple.webp",
+                "attractPara": "Kailasanathar Temple",
+                "attractText": "The Kailasanathar Temple in Namakkal district, Tamil Nadu, is an ancient Hindu temple dedicated to Lord Shiva..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/namakkal/Temples/7.+Araplleeshwarar+temple.webp",
+                "attractPara": "Arappaleeswarar Temple",
+                "attractText": "The Arappaleeswarar Temple in Namakkal district, Tamil Nadu, is dedicated to Lord Shiva. Located in the town of Rasipuram..."
+            }
+        ],
+        [
+            {
+                "title":"Nilgiris: The Enchanting Blue Hills of Tamil Nadu",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Nilgiri/heritage/ooty+botanical+garden.webp",
+                "attractPara": "Ooty Botanical Garden",
+                "attractText": "The Ooty Botanical Gardens, established in 1847, is one of the oldest and most famous ..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Nilgiri/museum/tea+museum.webp",
+                "attractPara": "Tea Museum",
+                "attractText": "The Tea Museum in Ooty, located near the iconic Toda Temple, offers a fascinating..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Nilgiri/hills/doddabetta.webp",
+                "attractPara": "Doddabetta Falls",
+                "attractText": "‘Doddabetta Falls’ is a scenic waterfall located near the famous Doddabetta Peak..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Nilgiri/museum/railway+museum.webp",
+                "attractPara": "Ooty Railway Museum",
+                "attractText": "The Railway Museum in Ooty, located near the Ooty Railway Station, offers a fascinating..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Nilgiri/heritage/sims+park.webp",
+                "attractPara": "Sim’s Park",
+                "attractText": "Sim’s Park, located in Coonoor, Tamil Nadu, is a well-maintained botanical..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Nilgiri/heritage/wenlock+downs.webp",
+                "attractPara": "Wenlock Downs",
+                "attractText": "Wenlock Downs, located in Ooty, Tamil Nadu, is a vast expanse of rolling hills..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Nilgiri/hills/coonoor+hills.webp",
+                "attractPara": "Coonoor Hills",
+                "attractText": "Coonoor Hills, located in the Nilgiris district of Tamil Nadu, is a serene hill station..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Nilgiri/hills/glenmorgen+hills.webp",
+                "attractPara": "Glenmorgan Hills",
+                "attractText": "Glenmorgan Hills, nestled in the Nilgiris of Tamil Nadu, is a tranquil hill station..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Nilgiri/hills/kottagiri+hill.webp",
+                "attractPara": "Kotagiri Hills",
+                "attractText": "Kotagiri Hills, located in the Nilgiris district of Tamil Nadu, is a serene and picturesque..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Nilgiri/museum/wax+world+museum.webp",
+                "attractPara": "Wax World Museum",
+                "attractText": "Wax World in Ooty is a popular tourist attraction that features life-like wax statues..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Nilgiri/palace/1.stone+house.webp",
+                "attractPara": "Stone House",
+                "attractText": "The 'Stone House' in 'Ooty' is one of the oldest buildings in the Nilgiris and holds significant..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Nilgiri/palace/4.Fernhills_Palace.webp",
+                "attractPara": "Fernhill Palace",
+                "attractText": "The Fernhill Palace in Ooty is a historic colonial-era building, originally constructed as the summer..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Nilgiri/waterfalls/lambs+rock+falls.webp",
+                "attractPara": "Lamb's Rock",
+                "attractText": "‘Lamb's Rock’ is a scenic viewpoint located about 8 km from ‘Coonoor’ in the Nilgiris, offering... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Nilgiri/coonoor+fort.webp",
+                "attractPara": "Coonoor Fort",
+                "attractText": "Coonoor Fort, located in the town of Coonoor in Tamil Nadu, is a historic landmark..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Nilgiri/waterfalls/Pykara_waterfalls.webp",
+                "attractPara": "Pykara Waterfalls",
+                "attractText": "‘Pykara Waterfalls’ is one of the most picturesque waterfalls in the Nilgiris, located about 20 km..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Nilgiri/wildlife/Mudumalai+wildlife+sanctuary.webp",
+                "attractPara": "Mudumalai Wildlife Sanctuary",
+                "attractText": "Mudumalai Wildlife Sanctuary, located at the foothills of the Nilgiri Hills in Tamil Nadu, is a biodiverse..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Nilgiri/wildlife/sigur+plateau.webp",
+                "attractPara": "Sigur Plateau",
+                "attractText": "Sigur Plateau, located in the Nilgiris district of Tamil Nadu, is a stunning expanse of wilderness..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Nilgiri/waterfalls/CATHERINE_WATER_FALLS.webp",
+                "attractPara": "Catherine Waterfalls",
+                "attractText": "‘Catherine Waterfalls’ is one of the largest and most stunning waterfalls in the Nilgiris, located..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Nilgiri/temples/6.ooty+mariamman+temple.webp",
+                "attractPara": "Ooty Mariamman Temple",
+                "attractText": "The Ooty Mariamman Temple is one of the oldest and most revered temples in Ooty, Tamil Nadu..."
+            }
+        ],
+        [
+            {
+                "title":"Perambalur: A Blend of Spirituality, Culture, and Scenic Beauty",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/perambalur/fort/perambalur-1655996823_74bfd05a5298c0ce76cd.webp",
+                "attractPara": "Perambalur Fort",
+                "attractText": "Perambalur Fort, located in Tamil Nadu, India, is a historic structure steeped in cultural and military significance..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/perambalur/Temple/1.+Anjaneyar+temple.webp",
+                "attractPara": "Perambalur Anjaneyar Temple",
+                "attractText": "Perambalur Anjaneyar Temple, located in Prambalur district, Tamil Nadu, is dedicated to Lord Hanuman. The temple..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/perambalur/Temple/2.+Siruvachur+Sri+Madhurakaliamman.webp",
+                "attractPara": "Sri Madhurakaliamman Temple",
+                "attractText": "Siruvachur Sri Madhurakaliamman Temple, located in Prambalur district, Tamil Nadu, is a revered Hindu temple dedicated... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/perambalur/Temple/3.+Valeeshwarar+temple.webp",
+                "attractPara": "Arulmigu Vaaleeswarar Temple",
+                "attractText": "Arulmigu Vaaleeswarar Temple, located in Prambalur district, Tamil Nadu, is dedicated to Lord Shiva. It is renowned..."
+            }
+        ],
+        [
+            {
+                "title":"Pudukkottai: A Historical and Cultural Gem of Tamil Nadu",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Pudukkottai/Temple/Thirumayam+temple.webp",
+                "attractPara": "Thirumayam Fort",
+                "attractText": "Thirumayam Fort is a historical marvel dating back to the 17th century..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Pudukkottai/Museum/Pudukkottai+Museum.webp",
+                "attractPara": "Pudukottai Museum",
+                "attractText": "Pudukottai Museum is a treasure trove of historical artifacts, art, and cultural..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Pudukkottai/Temple/Aavudayarkoil++Athmanadha+SwamyTemple.webp",
+                "attractPara": "Avudaiyarkovil Temple",
+                "attractText": "The Avudaiyarkovil Temple, also known as Sri Athmanatha Swamy Temple, is a..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Pudukkottai/Temple/Kaatubahava+Pallivasal.webp",
+                "attractPara": "Kaatubahava Pallivasal",
+                "attractText": "Kaatubahava Pallivasal is a revered Islamic place of worship with historical..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Pudukkottai/Temple/Aavur+Church.webp",
+                "attractPara": "Aavur Church",
+                "attractText": "Aavur Church is a historic Christian landmark known for its architectural..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Pudukkottai/Heritage/Kudumiyanmalai.webp",
+                "attractPara": "Kudumiyanmalai Fort",
+                "attractText": "Kudumiyanmalai Fort is located near the village of Kudumiyanmalai in the..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Pudukkottai/palace.webp",
+                "attractPara": "Thondaiman Palace",
+                "attractText": "Thondaiman Palace is a magnificent historical structure that once served as..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Pudukkottai/Viralimalai+murugan+temple.webp",
+                "attractPara": "Viralimalai Murugan",
+                "attractText": "Viralimalai Murugan is a revered shrine dedicated to Lord Murugan Perched atop the..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Pudukkottai/Temple/3.+thirivappur+muthu+mariamman.webp",
+                "attractPara": "Thiruvappur Muthumariamman Temple",
+                "attractText": "Thiruvappur Muthumariamman Temple , is a revered Hindu shrine dedicated to Goddess..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Pudukkottai/Temple/1.Thirumayam+temple.webp",
+                "attractPara": "Thirumayam Temple",
+                "attractText": "Thirumayam Temple is a remarkable heritage site that houses two ancient rock-cut..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Pudukkottai/Narthamalai.webp",
+                "attractPara": "Narthamalai Temple",
+                "attractText": "Narthamalai Temple is an ancient site renowned for its Chola-era rock-cut temples..."
+            }
+        ],
+        [
+            {
+                "title":"Ramanathapuram: A Sanctuary of Spirituality, History, and Scenic Beauty",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/BEACH/PAMBAN+BEACH.webp",
+                "attractPara": "Pamban Bridge",
+                "attractText": "Pamban Bridge in Ramanathapuram district is known for its serene beauty and tranquil waters. Located..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/BEACH/DHANUSHKODI+BEACH.webp",
+                "attractPara": "Dhanushkodi Beach",
+                "attractText": "Dhanushkodi Beach, located in the Ramanathapuram district of Tamil Nadu, is a unique and picturesque destination..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/MUSEUM/APJ+ABDUL+KALAM+MEMORIAL+MUSEUM.webp",
+                "attractPara": "APJ Abdul Kalam Memorial Museum",
+                "attractText": "The APJ Abdul Kalam Memorial Museum in Ramanathapuram district, Tamil Nadu, honors the legacy..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/HERITAGE/ERVADI+DARGAH+(1).webp",
+                "attractPara": "Ervadi Dargah",
+                "attractText": "The Ervadi Dargah in Ramanathapuram district is a revered Islamic shrine dedicated to the Sufi saint Hazrat..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/PALACE/RAMANATHAPURAM+PALACE+(1).webp",
+                "attractPara": "Ramanathapuram Palace",
+                "attractText": "The old palace in Ramanathapuram, located in the Ramanathapuram district of Tamil Nadu, India, is a historical landmark..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/WILD+LIFE/DHANUSHKODI+COSTAL+WILDLIFE+AND+MIGRATORY+BIRDS.webp",
+                "attractPara": "Dhanushkodi Bird Sanctuary",
+                "attractText": "Dhanushkodi, located in Ramanathapuram district, is a serene coastal region known for its rich wildlife and migratory birds..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/BEACH/MANDAPAM+BEACH.webp",
+                "attractPara": "Mandapam Beach",
+                "attractText": "Mandapam Beach, located in Ramanathapuram district, is known for its serene beauty and tranquil waters..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/BACKWATER/GULF+OF+MANNAR+BACKWATERS.webp",
+                "attractPara": "Gulf of Mannar backwaters",
+                "attractText": "The Gulf of Mannar backwaters in Ramanathapuram district, Tamil Nadu, are a unique and ecologically rich region..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/MUSEUM/VIVEKANANTHA+MEMORIAL+HALL+RAMESWARAM.webp",
+                "attractPara": "Vivekanatha Memorial Hall",
+                "attractText": "Vivekanatha Memorial Hall in Rameswaram, Ramanathapuram district, is a tribute to the spiritual leader..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/MUSEUM/RAMANATHAPURAM+DISTRICT+MUSEUM.webp",
+                "attractPara": "Ramanathapuram Museum",
+                "attractText": "Ramanathapuram Museum, located in Ramanathapuram district, Tamil Nadu, is a center of local heritage..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/WILD+LIFE/KANJIRANKULAM+BIRD+SANCTUARY.webp",
+                "attractPara": "Kanjirankulam Bird Sanctuary",
+                "attractText": "Kanjirankulam Bird Sanctuary, located in Ramanathapuram district, Tamil Nadu, is a vital haven for migratory birds..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/BACKWATER/KURUSADAI+ISLAND.webp",
+                "attractPara": "Kurusadai Islands",
+                "attractText": "Kurusadai Islands, located in Ramanathapuram district, Tamil Nadu, are a small, uninhabited archipelago..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/MUSEUM/DHANUSHKODI+RUINS+MUSEUM.webp",
+                "attractPara": "Dhanushkodi Church",
+                "attractText": "The Dhanushkodi Church, also known as the Dhanushkodi Heritage Museum..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/BEACH/SETHU+KARAI+BEACH.webp",
+                "attractPara": "Sedhu Karai Beach",
+                "attractText": "Sedhu Karai Beach in Ramanathapuram district is known for its serene and tranquil surroundings..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/HERITAGE/RAMANATHASWAMY+TEMPLE.webp",
+                "attractPara": "Ramanathaswamy Temple",
+                "attractText": "The Ramanathaswamy Temple in Ramanathapuram district, Tamil Nadu, is a significant pilgrimage site..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/BEACH/ARIYAMAN+BEACH.webp",
+                "attractPara": "Ariyaman Beach",
+                "attractText": "Ariyaman Beach in Ramanathapuram district, Tamil Nadu, is a serene coastal spot known for its calm waters and beautiful sunsets..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/TEMPLE/DHANUSHKODI+KOTHANDARAMAR+TEMPLE.webp",
+                "attractPara": "Dhanushkodi Kothandaramar Temple",
+                "attractText": "The Dhanushkodi Kothandaramar Temple is situated in the Dhanushkodi area of Ramanathapuram district..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/BEACH/RAMESWARAM+BEACH.webp",
+                "attractPara": "Rameswaram Beach",
+                "attractText": "Rameswaram Beach in Ramanathapuram district is known for its stunning natural beauty and clear blue waters..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/TEMPLE/7+sri+adhi+jaganatha+temple.webp",
+                "attractPara": "Thiruppullani Adi Jagannatha Perumal Temple",
+                "attractText": "The Thiruppullani Adi Jagannatha Perumal Temple is located in Ramanathapuram district, Tamil Nadu. Dedicated to Lord Vishnu..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/TEMPLE/UTHIRAKOSAMANGAI+MANGALANATHA+SWAMY+TEMPLE.webp",
+                "attractPara": "Uthirakosamangai Mangalanatha Swamy Temple",
+                "attractText": "The Uthirakosamangai Mangalanatha Swamy Temple, located in Ramanathapuram district, Tamil Nadu, is an ancient..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/TEMPLE/VILLONDI+THEERTHAM+TEMPLE.webp",
+                "attractPara": "Villondi Theertham",
+                "attractText": "Villondi Theertham in Ramanathapuram district is a sacred site located near Rameswaram. It holds great significance..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/TEMPLE/NAMBUNAYAGI+AMMAN+TEMPLE.webp",
+                "attractPara": "Nambu Nayagi Amman Temple",
+                "attractText": "Nambu Nayagi Amman Temple, located in the Ramanathapuram district, is a significant spiritual site..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/TEMPLE/SETHUKARAI+HANUMAN+TEMPLE.webp",
+                "attractPara": "Sethu Karai Hanumam Temple",
+                "attractText": "Sethu Karai Hanumam Temple in Ramanathapuram district is dedicated to Lord Hanuman. Situated near the coast..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RAMANATHAPURAM/TEMPLE/PANCHAMUKHI+HANUMAN+TEMPLE.webp",
+                "attractPara": "Panchamughi Hanuman Temple",
+                "attractText": "Panchamughi Hanuman Temple in Ramanathapuram district is dedicated to Lord Hanuman, known for his five-faced..."
+            }
+        ],
+        [
+            {
+                "title":"Ranipet: A Confluence of Spirituality, History, and Industrial Growth",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RANIPET/HILLS/SHOLINGHUR+HILL.webp",
+                "attractPara": "Sholinghur Hills",
+                "attractText": "Sholinghur Hills is a renowned pilgrimage site known for its spiritual significance and scenic beauty..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RANIPET/TEMPLE/1.ARULMIGU+NARASIMASWAMY+TEMPLE(SHOLINGUR).webp",
+                "attractPara": "Arulmigu Lakshmi Narasimmaswamy Temple ",
+                "attractText": "Arulmigu Lakshmi Narasimmaswamy Temple is a renowned hilltop temple dedicated to Lord Narasimha..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RANIPET/HILLS/RANIPET+HILLS.webp",
+                "attractPara": "Ratnagiri hills",
+                "attractText": "Ratnagiri hills is a serene and picturesque destination, famous for the Ratnagiri Bala Murugan..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RANIPET/TEMPLE/2.RATNAGIRI+BALAMURUGAN+TEMPLE.webp",
+                "attractPara": "Ratnagiri Bala Murugan Temple",
+                "attractText": "Ratnagiri Bala Murugan Temple is a prominent hilltop shrine dedicated to Lord Murugan, the..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RANIPET/HILLS/kanchanagiri-hills.webp",
+                "attractPara": "Kanchanagiri hills",
+                "attractText": "Kanchanagiri Hills, nestled in the serene landscapes of India, is a picturesque destination..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/RANIPET/TEMPLE/8.WALAJAPET+KASIVISWANATHAR+TEMPLE.webp",
+                "attractPara": "Walajapet Kasi Vishwanadhar Temple ",
+                "attractText": "Walajapet Kasi Vishwanadhar Temple is an ancient and revered Hindu temple dedicated to Lord Shiva..."
+            }
+        ],
+        [
+            {
+                "title":"Salem: A Rich Tapestry of Spirituality, History, and Natural Beauty",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/SALEM/BACKWATERS/METTUR+DAM+RESERVIOUR.webp",
+                "attractPara": "Mettur Dam Reservoir",
+                "attractText": "Mettur Dam Reservoir is one of the largest dams in India, built across the River Cauvery..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/SALEM/HIKING/YERCAUD+HILLS.webp",
+                "attractPara": "Yercaud Hills",
+                "attractText": "Yercaud Hills is a picturesque hill station known as the 'Jewel of the South'..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/SALEM/MUSEUM/GOVERNMENT+MUSEUM+SALEM.webp",
+                "attractPara": "Government Museum in Salem",
+                "attractText": "Government Museum in Salem is an intriguing destination for history and culture..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/SALEM/TEMPLES/ARULMIGU+KOTTAI+PERUMAL+TEMPLE.webp",
+                "attractPara": "Arulmigu Kottai Perumal Temple",
+                "attractText": "Arulmigu Kottai Perumal Temple is an ancient and revered Hindu temple dedicated to Lord..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/SALEM/WATERFALLS/ATTUR+WATERFALLS.webp",
+                "attractPara": "Attur Waterfalls",
+                "attractText": "Attur Waterfalls,is a hidden gem surrounded by lush greenery and rocky terrain..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/SALEM/WILD+LIFE/SALEM+GOPVERNMENT+ZOO.webp",
+                "attractPara": "Salem Government Zoo",
+                "attractText": "Salem Government Zoo is a well-maintained zoological park offering a close encounter..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/SALEM/WATERFALLS/KILLIYUR+FALLS.webp",
+                "attractPara": "Killiyur Falls",
+                "attractText": "Killiyur Falls is a captivating waterfall surrounded by lush forests and hills..."
+                
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/SALEM/WILD+LIFE/YERCAUD+WILDLIFE+SANCTUARY.webp",
+                "attractPara": "Yercaud Wildlife Sanctuary",
+                "attractText": "Yercaud Wildlife Sanctuary is a serene and biodiverse haven for nature lovers and..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/SALEM/TEMPLES/KOTTAI+MARIAMMAN+TEMPLE.webp",
+                "attractPara": "Kottai Mariamman Temple",
+                "attractText": "Kottai Mariamman Temple is a famous Hindu temple dedicated to Goddess Mariamman..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/SALEM/TEMPLES/SHEVAROY+TEMPLE.webp",
+                "attractPara": "The Shevaroy Temple",
+                "attractText": "The Shevaroy Temple , is a revered Hindu shrine dedicated to Lord Servarayan and..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/SALEM/TEMPLES/THARAMANGALAM+VIDYANATHAR+TEMPLE.webp",
+                "attractPara": "Tharamangalam Kailasanathar Temple",
+                "attractText": "Tharamangalam Kailasanathar Temple is a stunning architectural marvel located in..."
+            }
+        ],
+        [
+            {
+                "title":"Sivagangai: A Blend of History, Culture, and Agriculture",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Sivagangai/Heritage/2.+Chetinad+Mansion.webp",
+                "attractPara": "Chettinad Palace",
+                "attractText": "The Chettinad Palace, also known as the Chettinad Heritage Centre, is located in Sivagangai district, Tamil Nadu. It offers a fascinating..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Sivagangai/Temple/3.+Pillayarpatti.webp",
+                "attractPara": "Pillaiyarpatti Karpaga Vinagagar Temple",
+                "attractText": "Pillaiyarpatti Karpaga Vinagagar Temple, located in Sivagangai district, is a revered shrine dedicated to Lord Vinayagar..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Sivagangai/Temple/5.+Kalayarkoil.webp",
+                "attractPara": "Kalaiyar Kovil Temple",
+                "attractText": "Kalaiyar Kovil Temple, situated in Sivagangai district, Tamil Nadu, is a significant pilgrimage site dedicated to Lord Shiva..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Sivagangai/Temple/4.+Sri+Sowmiya+Narayana+Perumal+Temple%2C+Thirukkoshtiyur.webp",
+                "attractPara": "Sowmya Narayana Perumal Temple",
+                "attractText": "Thirukosthiyur Sowmya Narayana Perumal Temple, located in Sivagangai district, is a significant Vaishnavite shrine dedicated to Lord Narayana..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Sivagangai/Temple/1.+Kundrakudi+Arulmigu+Shanmuganathan+Temple.webp",
+                "attractPara": "Kunrakudi Shanmuganathan Temple",
+                "attractText": "Kunrakudi Shanmuganathan Temple, located in Sivagangai district, Tamil Nadu, is a revered shrine dedicated..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Sivagangai/Temple/2.+Arulmigu+Koppudaiya+Nayagi+Amman+Temple.webp",
+                "attractPara": "Koppudai Nayaki Amman Temple",
+                "attractText": "Koppudai Nayaki Amman Temple, located in Karaikudi, Sivagangai district, is a prominent shrine dedicated..."
+            }
+        ],
+        [
+            {
+                "title":"Tenkasi: A Heaven of Spirituality, History, and Natural Beauty",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thenkaasi/Waterfalls/1.+Courtallam.webp",
+                "attractPara": "Courtalam Waterfalls",
+                "attractText": "Courtalam Waterfalls, located in Tenkasi district, Tamil Nadu, is one of the most popular tourist attractions..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thenkaasi/Fort/kazhukumalai+Fort.webp",
+                "attractPara": "Kazhugumalai Fort",
+                "attractText": "Kazhugumalai Fort, located in Tenkasi district, Tamil Nadu, is a historical site that offers a glimpse into the region’s..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/extra+img/image/Kalakad+Mundanthurai+tiger+reserve+Tenkasi.jpg",
+                "attractPara": "Kalakad Mundanthurai Tiger Reserve",
+                "attractText": "Kalakad Mundanthurai Tiger Reserve (KMTR) in Tenkasi district, Tamil Nadu, is a vast protected area..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thenkaasi/Backwter/Cotrallam+backwater.webp",
+                "attractPara": "Backwater Courtallam",
+                "attractText": "Backwater Courtallam, also known as Kutralam, is a picturesque spot in the Tenkasi district..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thenkaasi/museum/Courtallam+museum.webp",
+                "attractPara": "Courtallam Museum",
+                "attractText": "Courtallam Museum, located in Tenkasi district, Tamil Nadu, offers visitors a glimpse into the region's..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thenkaasi/Waterfalls/2.+Five+tails.webp",
+                "attractPara": "Aintharuvi(Five Tail)",
+                "attractText": "Aintharuvi, meaning 'five falls' is a popular tourist attraction in Tenkasi district, TamilNadu. These..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thenkaasi/Hills/Courtallam+hill.webp",
+                "attractPara": "Courtallam Hills",
+                "attractText": "Courtallam Hills in Tenkasi district, Tamil Nadu, are known for their scenic beauty and refreshing..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thenkaasi/Waterfalls/3.+Shenbaga+Falls.webp",
+                "attractPara": "Shenbaga Falls",
+                "attractText": "Shenbaga Falls, located in Tenkasi district, Tamil Nadu, is a hidden gem surrounded by lush greenery..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thenkaasi/Temple/1.+Arulmigu+Sankaranarayana+Swamy+Temple.webp",
+                "attractPara": "Sankaranarayanan Swamy Temple",
+                "attractText": "Sankaranarayanan Swamy Temple, located in Tenkasi district, Tamil Nadu, is a significant Hindu shrine..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thenkaasi/Temple/2.+Ulagamman+Kasi+Viswanathar+Kovil+Tenkasi.webp",
+                "attractPara": "Ulagamman Kasi Viswanathar Temple",
+                "attractText": "Ulagamman Kasi Viswanathar Temple, located in Tenkasi district, Tamil Nadu, is a prominent Hindu shrine..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thenkaasi/Temple/3.+Arulmigu+Thirumalai+Kumaraswamy+Temple.webp",
+                "attractPara": "Arulmigu Thirumalai Kumaraswamy Temple",
+                "attractText": "Arulmigu Thirumalai Kumaraswamy Temple, located in Tenkasi district, Tamil Nadu, is dedicated to Lord..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thenkaasi/Temple/4.+Arulmigu+Kaasi+Viswanathar+Temple%2C+Tenkasi.webp",
+                "attractPara": "Arulmigu Kasi Vishvanathar Temple",
+                "attractText": "Arulmigu Kasi Vishvanathar Temple, located in Tenkasi district, Tamil Nadu, is dedicated to Lord Shiva..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thenkaasi/Temple/5.+Kulasekaranathar+Temple.webp",
+                "attractPara": "Kulasekaranathar Temple",
+                "attractText": "The Kulasekaranathar Temple, located in Tenkasi district, Tamil Nadu, is dedicated to Lord Shiva. This..."
+            }
+        ],
+        [
+            {
+                "title":"Thanjavur: The Heart of Tamil Nadu’s Cultural Legacy",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thanjavur/Temple/1.+Brihadishvara.webp",
+                "attractPara": "Brihadeeswarar temple",
+                "attractText": "Brihadeeswarar Temple is a magnificent example of Dravidian architecture and a UNESCO.."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thanjavur/Fort/Manora+Fort.webp",
+                "attractPara": "Manora Fort",
+                "attractText": "Manora Fort, located near the coastal town of Thanjavur in Tamil Nadu, India, was built..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thanjavur/Temple/3.+Swamimalai+temple.webp",
+                "attractPara": "Swamimalai Temple",
+                "attractText": "Swamimalai Temple is dedicated to Lord Murugan, the Hindu God of war..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thanjavur/Beach/Manora+Beach.webp",
+                "attractPara": "Manora Beach",
+                "attractText": "Manora Beach, located about 68 kilometers from Thanjavur..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thanjavur/Temple/2.+Airdheshwarar.webp",
+                "attractPara": "Airavatesvara Temple",
+                "attractText": "Airavatesvara Temple is a stunning example of Chola architecture and a UNESCO World Heritage Site... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thanjavur/Palace/1.+Maratha+Palace.webp",
+                "attractPara": "Maratha Palace ",
+                "attractText": "Maratha Palace, also known as Raja’s Palace, is a historic landmark ... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thanjavur/Temple/tanjai-mamani-koil.webp",
+                "attractPara": "Thanjai Mamani Koil",
+                "attractText": "Thanjai Mamani Koil is a revered cluster of three Vishnu temples ..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thanjavur/Temple/5.+Punnainallur+mariamman.webp",
+                "attractPara": "Punnai Nallur Mariamman Temple",
+                "attractText": "Punnai Nallur Mariamman Temple is a prominent Hindu shrine dedicated..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thanjavur/Temple/Raja+Gopuram.webp",
+                "attractPara": "Kandiyur Temple",
+                "attractText": "Kandiyur Temple, is a historic Hindu temple dedicated to Lord Shiva..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thanjavur/Temple/7.+Thirunageshwaran++Naganathar.webp",
+                "attractPara": "Thirunageswaram Temple",
+                "attractText": "The Thirunageswaram Temple, located near Kumbakonam in Thanjavur..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/extra+img/image/puthupadinam+beach.jpg",
+                "attractPara": "Puthupattinam Beach",
+                "attractText": "Puthupattinam Beach is a serene and lesser-known coastal destination..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thanjavur/Heritage/3.+Saraswathi+Mahal+library.webp",
+                "attractPara": "Thanjavur Royal Palace and Art Gallery",
+                "attractText": "It is a historical landmark that showcases the grandeur of the Maratha dynasty..."
+            }
+        ],
+        [
+            {
+                "title":"Theni: A Picturesque Gateway to Nature and Serenity",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Theni/HIKING/MEGHAMALAI+HILL+TREK.webp",
+                "attractPara": "Meghamalai Hill Trek",
+                "attractText": "Meghamalai Hill Trek offers a thrilling adventure amidst lush green landscapes and serene surroundings..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Theni/TEMPLE/BALASUBRAMANIYA+SWAMY+TEMPLE.webp",
+                "attractPara": "Balasubramaniya Swamy Temple",
+                "attractText": "Balasubramaniya Swamy Temple is a revered Hindu temple dedicated to Lord Murugan..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Theni/WATER+FALLS/KUMBAKKARAI+FALLS.webp",
+                "attractPara": "Kumbakkarai Falls",
+                "attractText": "Kumbakkarai Falls, located in the Western Ghats, is a picturesque waterfall known for its natural beauty..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Theni/FORT/Bodinayakanur-Palace-.webp",
+                "attractPara": "Bodinayakanur Fort",
+                "attractText": "Bodinayakanur Fort is a historic structure that dates back to the 18th century..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Theni/MUSEUM/THENI+MUSEUM.webp",
+                "attractPara": "Theni Museum",
+                "attractText": "Theni Museum is a cultural and historical treasure trove that showcases the rich heritage..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Theni/HILL/BODINAYAKKANUR+HILL.webp",
+                "attractPara": "Bodinayakkanur Hill",
+                "attractText": "Bodinayakkanur Hill is a scenic hill station known for its natural beauty and serene environment..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Theni/TEMPLE/gowmariamman-temple.webp",
+                "attractPara": "Gowmariamman Temple",
+                "attractText": "Gowmariamman Temple , is a renowned Hindu temple dedicated to Goddess Gowmariamman..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Theni/WATER+FALLS/SURULI+FALLS.webp",
+                "attractPara": "Suruli Falls",
+                "attractText": "Suruli Falls is a captivating waterfall known for its picturesque beauty..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Theni/WILD+LIFE/MEGAMALAI+WILDLIFE+SANCTUARY.webp",
+                "attractPara": "Megamalai Wildlife Sanctuary",
+                "attractText": "Megamalai Wildlife Sanctuary is a rich biodiversity hotspot. Known as the 'High Wavy Mountains,'..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Theni/TEMPLE/SANJEEVI+PERUMAL+TEMPLE.webp",
+                "attractPara": "Sanjeevi Perumal Temple",
+                "attractText": "Sanjeevi Perumal Temple is a sacred shrine dedicated to Lord Vishnu in his Sanjeevi Perumal..."
+            }
+        ],
+        [
+            {
+                "title":"Tirunelveli: The Land of Temples, Culture, and Natural Beauty",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/WATER+FALLS/MANIMUTHARU+WATERFALLS.webp",
+                "attractPara": "Manimuthar Waterfall",
+                "attractText": "Manimutharu Waterfalls, located in the Tirunelveli district of Tamil Nadu, is a picturesque waterfall known for its stunning beauty and serene surroundings."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/temples/ARULMIGU+SRI+RAJAGOBALASWAMY++TEMPLE.webp",
+                "attractPara": "Arulmigu Sri Rajagobala Swamy Temple",
+                "attractText": "The Sri Rajagopalaswamy Temple, located in the village of Rajapalayam in Tirunelveli district, is an ancient and revered temple dedicated to Lord Vishnu. "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/HILLS/MONJOLAI+HILL.webp",
+                "attractPara": "Manjolai Hill",
+                "attractText": "Manjolai Hill, located in the Thirunelveli district of Tamil Nadu, is a serene and scenic hill station nestled in the Western Ghats."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/WATER+FALLS/PAANA+THEERTHAM+WATERFALLS.webp",
+                "attractPara": "Paana Theertham Waterfalls",
+                "attractText": "Paana Theertham Waterfalls, located in the scenic hills of the Western Ghats in Thirunelveli, Tamil Nadu, is a hidden gem known for its natural beauty and tranquility. "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/WATER+FALLS/GUNDAR+PRIVATE+FALL.webp",
+                "attractPara": "Gundar Private Falls",
+                "attractText": "Gundar Falls, nestled within the serene landscapes of Tamil Nadu, is a hidden gem waiting to be explored. This picturesque waterfall, surrounded by lush greenery and rugged terrains, offers a perfect retreat for nature enthusiasts and adventure seekers."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/WATER+FALLS/AGASTHIYAR+FALLS.webp",
+                "attractPara": "Agasthiyar Falls",
+                "attractText": "Agasthiyar Falls, located in the Western Ghats near the town of Papanasam in Tamil Nadu, is a scenic waterfall surrounded by dense forests."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/WATER+FALLS/Kuthara_Paanjal_Waterfalls.webp",
+                "attractPara": "Kuthara Paanjal Waterfall",
+                "attractText": "Kuthara Paanjal Waterfall, located in the heart of Tirunelveli, Tamil Nadu, is a captivating natural wonder known for its serene beauty."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/WATER+FALLS/NAMBI+KOVIL+FALLS.webp",
+                "attractPara": "Nambi Kovil Fall",
+                "attractText": "The falls cascade down from a great height, surrounded by lush greenery and dense forests, making it a peaceful and scenic destination for nature lovers and trekkers. "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/WATER+FALLS/Thenga+urili+falls.webp",
+                "attractPara": "Thenga urili falls",
+                "attractText": "Thenga Uruli Waterfalls, located in the Thirunelveli district of Tamil Nadu, is a stunning natural attraction known for its unique beauty."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/WILD+LIFE/Koonthankulam+Bird+Sanctuary.webp",
+                "attractPara": "Koothankulam Bird Sanctuary",
+                "attractText": "Koonthankulam Bird Sanctuary, located in the Thirunelveli district of Tamil Nadu, is one of the largest bird sanctuaries in the state. Spread across 750 acres, it is a haven for birdwatchers and nature lovers. "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/WILD+LIFE/MANIMUTHAR+WILDLIFE+SANCTUARY.webp",
+                "attractPara": "Manimutharu Wildlife Sanctuary",
+                "attractText": "Spread across the Western Ghats, the sanctuary is home to a variety of wildlife, including tigers, leopards, elephants, and numerous species of birds. "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/HILLS/PAPANASAM+HILLS.webp",
+                "attractPara": "Papanasam Hill",
+                "attractText": "The hill is famous for its lush forests, picturesque landscapes, and cool climate, making it an ideal destination for nature lovers and adventure seekers."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/THIRUNELVELI+MUSEUM.webp",
+                "attractPara": "Government Museum Thirunelveli",
+                "attractText": "Established in 1981, the museum features a diverse collection of artifacts, including archaeological finds, ancient sculptures, and historical relics."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/WILD+LIFE/KALAKKAD+MUNDANTHURAI+TIGER+RESERVE.webp",
+                "attractPara": "Kalakkad Mundanthurai Tiger Reserve",
+                "attractText": "Kalakkad Mundanthurai Tiger Reserve, located in the Western Ghats of Tamil Nadu, is a renowned sanctuary and one of the most significant tiger reserves in India."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/HILLS/KALAKKAD+HILL.webp",
+                "attractPara": "Kallakad Hill",
+                "attractText": "Kalakkad Hill is a popular destination for nature lovers, trekkers, and wildlife enthusiasts. "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/temples/arulmigu+Nellaiyappar+swami+Temple.webp",
+                "attractPara": "Arulmigu Nellaiyappar Swamy Temple",
+                "attractText": "The temple is famous for its elaborate rituals, vibrant festivals, and the unique musical pillars, which produce sounds when tapped."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/temples/ARULMIGU+SRI+SALAI+KUMARASWAMY+TEMPLE.webp",
+                "attractPara": "Arulmigu Sri Salai Kumara Swamy",
+                "attractText": "The temple is known for its picturesque setting and serene atmosphere, making it a popular pilgrimage site for devotees of Lord Murugan. "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/temples/Arulmigu-Sri-Varadharaja-Perumal.webp",
+                "attractPara": "Sri Varadharaja Perumal Temple",
+                "attractText": "Sri Vardharaja Perumal Temple, located in the village of Pudur in Tirunelveli district, is an important Hindu temple dedicated to Lord Vishnu. "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/temples/AZHAGIYA+NAMBI+TEMPLE.webp",
+                "attractPara": "Azhagiya Nambi Temple",
+                "attractText": "This ancient temple is known for its architectural beauty, historical significance, and peaceful ambiance. The temple features intricate carvings, beautiful sculptures, and a majestic tower (gopuram). "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/temples/KAILASANATHAR+TEMPLE.webp",
+                "attractPara": "Kailasanathar Temple",
+                "attractText": "Kailasanathar Temple is a historical and architectural gem that offers a spiritual journey back in time. "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/temples/MEGALINGA+SASTHA+TEMPLE.webp",
+                "attractPara": "Megalinga Sastha Temple",
+                "attractText": "The Megalinga Sastha Temple offers a peaceful retreat for devotees, providing a unique spiritual experience. "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tirunelveli/temples/PAPANASAM+SIVAN+TEMPLE.webp",
+                "attractPara": "Papanasam Sivan Temple",
+                "attractText": "Papanasam Sivan Temple is a spiritually enriching destination for devotees, offering a serene environment for prayer and reflection. "
+            }
+            
+        ],
+        [
+            {
+                "title":"Tirupattur: The Scenic Gateway to the Western Ghats and Cultural Heritage of Tamil Nadu",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thirupathur/hill/Yelgiri.webp",
+                "attractPara": "Yelagiri Hills",
+                "attractText": "Yelagiri Hills, is a popular hill station situated near Thirupathur. Known for its pleasant climate..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thirupathur/temple/1.+Brahmapureeswarar+temple.webp",
+                "attractPara": "Shri Brameswarar Temple",
+                "attractText": "The Shri Brameswarar Temple, located in Thirupathur, Tamil Nadu, is a revered Hindu shrine..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thirupathur/hill/Yelgiri.webp",
+                "attractPara": "Yelagiri Hiking",
+                "attractText": "Yelagiri Hiking,located near Thirupathur is a popular destination for hiking and outdoor adventures..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thirupathur/hill/Yelgiri.webp",
+                "attractPara": "Vaniyambadi Forest Reserve",
+                "attractText": "The Vaniyambadi Forest Reserve, located in Thirupathur district, Tamil Nadu, is a lush forest area..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thirupathur/temple/4.+Sri+RajaKali+Amman+Siddar+Peedam.webp",
+                "attractPara": "Shri Raja Kali Amman Siddar Peedam Temple",
+                "attractText": "Shri Raja Kali Amman Siddar Peedam Temple is a revered shrine dedicated to Goddess Raja Kali Amman..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thirupathur/temple/6.+thiru+nalinathar.webp",
+                "attractPara": "Thiruthalinathar Temple",
+                "attractText": "Thiruthalinathar Temple , is an ancient and revered Hindu temple dedicated to Lord Shiva..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thirupathur/temple/10.+Pennachi+Amman.webp",
+                "attractPara": "Pennachi Amman Temple",
+                "attractText": "Pennachi Amman Temple is a revered Hindu shrine dedicated to Goddess Pennachi Amman, a powerful..."
+            }
+        ],
+        [
+            {
+                "title":"Tiruppur: The Textile Capital and Cultural Heart of Tamil Nadu",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tiruppur/wild+life/amaravathi-reservoir+and+sanctuary.webp",
+                "attractPara": "Amaravathi Reservoir and Sanctuary",
+                "attractText": "The Amaravathi Reservoir and Sanctuary, located near Udumalpet in Tiruppur district..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tiruppur/Temples/2.sri+sukreeswarar+temple.webp",
+                "attractPara": "Sri Sukreeswarar Temple",
+                "attractText": "Sri Sukreeswarar Temple, located in the town of Tiruppur, Tamil Nadu, is an ancient and revered..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tiruppur/Temples/7.sivanmalai+murugan+temple.webp",
+                "attractPara": "Sivanmalai Murugan Temple",
+                "attractText": "Sivanmalai Murugan Temple, located near Kangeyam in Tiruppur, Tamil Nadu, is a renowned hill..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tiruppur/Temples/8.kulanthai+velayutha+swamy+temple.webp",
+                "attractPara": "Kulanthai Velayudhaswami Temple",
+                "attractText": "Kulanthai Velayudhaswami Temple, located in Tiruppur, Tamil Nadu, is a sacred temple dedicated..."
+            }
+        ],
+        [
+            {
+                "title":"Thiruvallur: A Gateway to Tradition and Tranquility",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvallur/beach/pulicat+beach.webp",
+                "attractPara": "Pulicat Beach",
+                "attractText": "Pulicat Beach in Thiruvallur district, Tamil Nadu, is a serene coastal destination known for its rich biodiversity..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvallur/Wild+life/P%7Bulicat+birds+sanctuary.webp",
+                "attractPara": "Pulicat Lake Bird Sanctuary",
+                "attractText": "The Pulicat Lake Bird Sanctuary in Thiruvallur district, Tamil Nadu, is a haven for migratory birds and a paradise..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvallur/Temples/2.+Pachamuga+Anjaneyar.webp",
+                "attractPara": "Pachamugha Anjaneyar Temple",
+                "attractText": "The Pachamugha Anjaneyar Temple in Thiruvallur district, Tamil Nadu, is dedicated to Lord Hanuman..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvallur/Temples/1.+vaithya+veera+ragava+perumal.webp",
+                "attractPara": "Arulmigu Vaithya Veeraraghava Perumal Temple",
+                "attractText": "Arulmigu Vaithya Veeraraghava Perumal Temple, located in Thiruvallur district, Tamil Nadu, is a revered Vishnu..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvallur/Temples/4..webp",
+                "attractPara": "Sri Theertheswarar Temple",
+                "attractText": "The Arulmigu Thiripurasundari Ambal Somedha Sri Theertheswarar Temple in Thiruvallur district, Tamil Nadu, is dedicated to Goddess..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvallur/Temples/9.+rajagopalaswamy.webp",
+                "attractPara": "Sri Rajagopalaswamy Temple",
+                "attractText": "The Sri Rajagopalaswamy Temple in Thiruvallur district, Tamil Nadu, is dedicated to Lord Krishna..."
+            }
+        ],
+        [
+            {
+                "title":"Thiruvannamalai: The Spiritual and Cultural Heart of Tamil Nadu",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvannamalai/Temples/1.+Arunachalam_temple.webp",
+                "attractPara": "Arunachaleswarar Temple (Tiruvannamalai Temple)",
+                "attractText": "The Arunachaleswarar Temple in Tiruvannamalai is one of the largest and most significant Hindu..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvannamalai/Waterfalls/jawwadhu+waterfalls.webp",
+                "attractPara": "Beemanmadavu Waterfalls",
+                "attractText": "Beemanmadavu Waterfalls is located in the Jawadhu Hills of the Tiruvannamalai district..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvannamalai/hiking/3.+paravathamalai.webp",
+                "attractPara": "Parvathamalai hills",
+                "attractText": "Parvathamalai Hills, located near Polur in the Tiruvannamalai district, are a popular..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvannamalai/hiking/2.+Jawadhu+hills.webp",
+                "attractPara": "Jawadhu Hills",
+                "attractText": "The Jawadhu Hills, nestled in the Eastern Ghats, span parts of Tiruvannamalai and Vellore..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvannamalai/Mueseum/Thiruvannamalai+Museum.webp",
+                "attractPara": "Thiruvannamalai Museum",
+                "attractText": "The Thiruvannamalai Museum, located in the heart of the town, showcases the rich..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvannamalai/Backwaters/Saathanur.webp",
+                "attractPara": "Saathanur Backwater",
+                "attractText": "Saathanur Backwater, located near Thiruvannamalai, is a serene waterbody created..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvannamalai/Temples/6.+pachaiyamman.webp",
+                "attractPara": "Arulmigu Shri Pachaiamman Temple",
+                "attractText": "The Arulmigu Shri Pachaiamman Temple in Tiruvannamalai is dedicated to..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvannamalai/Hills/1.+Arunachala+Hill.webp",
+                "attractPara": "Arunachala Hill (Annamalaiyar Hill)",
+                "attractText": "Arunachala Hill, also known as Annamalaiyar Hill, is a sacred hill located..."
+            }
+        ],
+        [
+            {
+                "title":"Thiruvarur: The Land of Carnatic Music and Spiritual Heritage",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvarur/Muthupet+Lagoon.webp",
+                "attractPara": "Muthupet Lagoon Backwaters",
+                "attractText": "Muthupet Lagoon Backwaters is a stunning natural wonder that forms part of..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvarur/Temples/arulmigu+maha+saraswathy+amman+temple.webp",
+                "attractPara": "Arulmigu Maha Saraswathy Amman",
+                "attractText": "Arulmigu Maha Saraswathy Amman , is dedicated to Goddess Saraswathy,..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvarur/wildlife/udayamarthandapuram+bird+sanctuary.webp",
+                "attractPara": "Udayamarthandapuram Bird Sanctuary",
+                "attractText": "Udayamarthandapuram Bird Sanctuary is a haven for bird watchers and nature..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvarur/Temples/arulmigu+pathanjali+monoharar+temple.webp",
+                "attractPara": "Arulmigu Pathanjali Manohar Temple",
+                "attractText": "Arulmigu Pathanjali Manohar Temple , is dedicated to Lord Pathanjali,..."
+                
+            },
+            {
+                
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvarur/wildlife/vaduvoor-bird-sanctuary.webp",
+                "attractPara": "Vaduvoor Bird Sanctuary",
+                "attractText": "Vaduvoor Bird Sanctuary is a paradise for bird watchers and nature enthusiasts..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvarur/Temples/rajagobalaswamy+temple+mannargudi.webp",
+                "attractPara": "Rajagobalaswamy Temple",
+                "attractText": "Rajagobalaswamy Temple is an ancient and significant temple dedicated..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvarur/Temples/sri+thiyagaraja+swamy+temple.webp",
+                "attractPara": "Sri Thyagaraja Swamy Temple.",
+                "attractText": "Sri Thyagaraja Swamy Temple is one of the most famous temples dedicated..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruvarur/Temples/Thirukkollikadu+sivan+temple.webp",
+                "attractPara": "Thirukkollikadu Sivan Temple",
+                "attractText": "Thirukkollikadu Sivan Temple is dedicated to Lord Shiva in the form of..."
+            }
+        ],
+        [
+            {
+                "title":"Tiruchirappalli: The Rock City of Tamil Nadu",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruchirapalli/Temples/2.+rockfort.webp",
+                "attractPara": "Rockfort",
+                "attractText": "The Rockfort Ganapathy Temple, located in Trichy district, Tamil Nadu, is a renowned shrine dedicated..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruchirapalli/Backwaters/1.+kallanai.webp",
+                "attractPara": "Kallanai Backwater",
+                "attractText": "Kallanai Backwater, located near Trichy in Tamil Nadu, is an ancient dam built across the Kaveri River. It serves..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruchirapalli/Temples/1.+Srirangam.webp",
+                "attractPara": "Sri Ranganathaswamy Temple",
+                "attractText": "Sri Ranganathaswamy Temple, located in Trichy district, Tamil Nadu, is one of the largest and most significant..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruchirapalli/Backwaters/2.+Mukkombu.webp",
+                "attractPara": "Mukkombu",
+                "attractText": "Mukkombu, located near Trichy in Tamil Nadu, is a popular recreational spot and a crucial irrigation project..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruchirapalli/Mueseum/Tiruchirappalli-District-Museum.webp",
+                "attractPara": "Trichy Government Museum",
+                "attractText": "The Trichy Government Museum, located in the heart of Trichy city, is a significant cultural institution showcasing..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruchirapalli/Backwaters/3.+kauveri.webp",
+                "attractPara": "Kaveri River Backwater",
+                "attractText": "Kaveri River Backwater, situated near Trichy in Tamil Nadu, is a scenic location known for its tranquil environment..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruchirapalli/Temples/3.+Jambukkeshwarar.webp",
+                "attractPara": "Jambukeswarar Temple",
+                "attractText": "Jambukeswarar Temple, located in Trichy district, Tamil Nadu, is a prominent Hindu temple dedicated to Lord Shiva..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruchirapalli/Temples/5.+Samayapuram+Mariamman.webp",
+                "attractPara": "Samayapuram Mariamman Temple",
+                "attractText": "Samayapuram Mariamman Temple, located in Trichy district, Tamil Nadu, is one of the most prominent shrines dedicated..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruchirapalli/Temples/6.+vayalur+Murugan.webp",
+                "attractPara": "Vayalur Murugan Temple",
+                "attractText": "Vayalur Murugan Temple, located in Trichy district, Tamil Nadu, is dedicated to Lord Murugan, one of the most..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruchirapalli/Temples/7.+Sowmya+Damodra+Perumal.webp",
+                "attractPara": "Sowmya Damodara Perumal Temple",
+                "attractText": "The Sowmya Damodara Perumal Temple is situated in Ayyampettai, near Trichy district, Tamil Nadu. Dedicated to Lord..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruchirapalli/Temples/8.+Pachavarneswarar.webp",
+                "attractPara": "Panchavarneswarar Temple",
+                "attractText": "The Panchavarneswarar Temple is located in the Trichy district of Tamil Nadu. Dedicated to Lord Shiva, it is..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruchirapalli/Temples/9.+Ayyappan-temple-trichy.webp",
+                "attractPara": "Ayyappa Swamy Temple",
+                "attractText": "Ayyappa Swamy Temple, located in the Trichy district of Tamil Nadu, is dedicated to Lord Ayyappa, a popular deity..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Thiruchirapalli/Temples/11.+Vekkali_Amman_Temple.webp",
+                "attractPara": "Srirangam Vekkali Amman Temple",
+                "attractText": "The Srirangam Vekkali Amman Temple is located in the heart of Srirangam, Trichy district, Tamil Nadu. Dedicated..."
+            }
+        ],
+        [
+            {
+                "title":"Tuticorin: The Pearl City and Coastal Gem of Tamil Nadu",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tutucorin/Temples/1.+Thiruchendur.webp",
+                "attractPara": "Thiruchendur Temple",
+                "attractText": "Thiruchendur Temple is one of the six Abodes of Lord Murugan, also known as Arupadai..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tutucorin/Beach/3.+Kappal+Matha+Church+Beach.webp",
+                "attractPara": "Kappal Matha Church Beach",
+                "attractText": "Kappal Matha Church Beach is a picturesque coastal destination known for its..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tutucorin/Temples/kalugumalai.webp",
+                "attractPara": "Kalugumalai Hills",
+                "attractText": "Kalugumalai Hills is a historical and cultural gem. Known for its ancient rock..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Balance/Kattabomman+Memorial+Fort.webp",
+                "attractPara": "kattabomman Memorial Fort",
+                "attractText": "Kattabomman Memorial Fort honors the legacy of Veerapandiya Kattabomman, offering insights into his courageous fight against British colonialism..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Balance/Mullakkadu+Beach.webp",
+                "attractPara": "Mullakkadu Beach",
+                "attractText": "Mullakkadu Beach offers a tranquil escape with its pristine sands and gentle waves, perfect for relaxation and nature walks..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Balance/Our_lady_of_snows_basilica.webp",
+                "attractPara": "Our Lady Of Snows Basilica",
+                "attractText": "Our Lady of Snows Basilica, located in Thoothukudi, Tamil Nadu, is a significant Catholic pilgrimage site dedicated to the Virgin Mary under the title Our Lady of Snows..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tutucorin/Temples/2.+Srivaikunthanathan+temple.webp",
+                "attractPara": "Srivaikunthanathan Temple",
+                "attractText": "Srivaikunthanathan Temple is a significant Hindu temple dedicated to Lord Vishnu..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tutucorin/Temples/4.+manapad+church.webp",
+                "attractPara": "Manapad Church",
+                "attractText": "Manapad Church, also known as the Our Lady of Snows Church, is located in Manapad..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Tutucorin/Temples/5.+Vetukovil.webp",
+                "attractPara": "Vetukovil Temple",
+                "attractText": "The Vetukovil Temple is located in Tuticorin and is dedicated to Lord Shiva..."
+            }
+        ],
+        [
+            {
+                "title":"Vellore: The Gateway to Tamil Nadu’s Rich History and Culture",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Vellore/Temples/1.+Sripuram+Golden+temple.webp",
+                "attractPara": "Sripuram Golden Temple",
+                "attractText": "Sripuram Golden Temple is a stunning spiritual marvel dedicated to 'Goddess..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Vellore/Fort/Vellore+fort.webp",
+                "attractPara": "Vellore Fort",
+                "attractText": "Vellore Fort is a magnificent 16th-century fort built by the Vijayanagara kings..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Vellore/Museum/Vellore+Govt+Museum.webp",
+                "attractPara": "Vellore Government Museum",
+                "attractText": "Vellore Government Museum is a treasure trove of historical, archaeological, and..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Balance/Cup+and+Saucer+Waterfalls.webp",
+                "attractPara": "Cup And Saucer Waterfalls",
+                "attractText": "The Cup and Saucer Waterfalls offer a peaceful haven for nature lovers, providing a refreshing escape with its cool waters and scenic beauty..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Balance/Kalinjur+Lake%2C+Fishing+in+Katpad.webp",
+                "attractPara": "Kalinjur Lake",
+                "attractText": "Kalinjur Lake offers a peaceful retreat for nature lovers and fishing enthusiasts, providing a serene environment amidst natural beauty..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Balance/Palamathi+Temple.webp",
+                "attractPara": "Palamathi Temple",
+                "attractText": "Perched atop the Palamathi Hills in Vellore, Tamil Nadu, the Palamathi Temple is a revered Hindu shrine dedicated to Lord Murugan..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Vellore/Temples/2.+Jalakandeswarar+temple.webp",
+                "attractPara": "Jalakandeswarar Temple",
+                "attractText": "Jalakandeswarar Temple is a magnificent temple dedicated to Lord Shiva..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Vellore/Temples/3.+Maragababdeswar.webp",
+                "attractPara": "Margabandeswarar Temple",
+                "attractText": "Margabandeswarar Temple,is a revered temple dedicated to Lord Shiva, worshipped..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Vellore/Temples/4.+MahaDeva+malai+Temple.webp",
+                "attractPara": "Mahadeva Malai Temple",
+                "attractText": "Mahadeva Malai Temple is a serene hilltop shrine dedicated to Lord Shiva..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Vellore/Temples/5.++lakshmi+narsimha+temple.webp",
+                "attractPara": "Lakshmi Narasimha Temple",
+                "attractText": "Lakshmi Narasimha Temple , is a sacred shrine dedicated to Lord Narasimha..."
+            }
+        ],
+        [
+            {
+                "title":"Villupuram: A Fusion of Spirituality, History, and Culture",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Vilupuram/Fort/Fort.webp",
+                "attractPara": "Villupuram Fort",
+                "attractText": "Villupuram Fort, located in the town of Villupuram in Tamil Nadu’s Villupuram district, is a historical monument..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Vilupuram/heritage/Museum.webp",
+                "attractPara": "Villupuram Government Museum",
+                "attractText": "The Villupuram Government Museum is a significant cultural and educational institution located in Villupuram district... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Vilupuram/temple/2.+Gnanananda+Thapovanam.webp",
+                "attractPara": "Gnanananda Thopovanam",
+                "attractText": "Gnanananda Thopovanam in Vilupuram district, Tamil Nadu, is a spiritual retreat dedicated to the teachings of Swami Gnanananda..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Balance/Sankara+Madam+.webp",
+                "attractPara": "Sankara Madam",
+                "attractText": "Sankara Madam in Villupuram, Tamil Nadu, is a revered spiritual center marking the birthplace of His Holiness Pujyasri Chandrasekarendra Saraswathi Maha Swamiji, the 68th Pontiff of the Kanchi Kamakoti Peetam..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Balance/Gingee+Fort.webp",
+                "attractPara": "Gingee Fort",
+                "attractText": "Gingee Fort offers a tranquil retreat for history enthusiasts and travelers, with its ancient ruins and scenic vistas providing a serene and enriching experience..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Balance/Venkataramana+Temple.webp",
+                "attractPara": "Venkataramana Temple",
+                "attractText": "The Venkataramana Temple, situated within the Gingee Fort complex in Villupuram district, Tamil Nadu, is a significant 16th-century structure dedicated to Lord Vishnu..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Vilupuram/temple/1.+Sri+Adhi+Thiruvarangam+Perumal+Kovil.webp",
+                "attractPara": "Aathi Thiruvarangam Perumal Temple",
+                "attractText": "The Aathi Thiruvarangam Perumal Temple in Vilupuram district, Tamil Nadu, is dedicated to Lord Vishnu..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Vilupuram/temple/4.+Sri+Angala+Parameshvari+Temple%2C+Melmalayanur.webp",
+                "attractPara": "Sri Angalamman Parameswari Temple",
+                "attractText": "The Sri Angalamman Parameswari Temple in Vilupuram district, Tamil Nadu, is dedicated to the goddess Angalamman..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Vilupuram/temple/5.+Sri+Lakshmi+Narasimha+Perumal+Temple.webp",
+                "attractPara": "Sri Lakshmi Narasimha Perumal Temple",
+                "attractText": "The Sri Lakshmi Narasimha Perumal Temple in Vilupuram district, Tamil Nadu, is dedicated to Lord Narasimha, the half-lion..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/Vilupuram/temple/6.+Sri+Raghuttama+Tirtha+Moola+Brindavana%2C+Uttaradimath.webp",
+                "attractPara": "Sri Raghuthama Tirtha Moola Brindavana",
+                "attractText": "The Sri Raghuthama Tirtha Moola Brindavana at Uttaradimath in Vilupuram district is a revered site dedicated..."
+            }
+        ],
+        [
+            {
+                "title":"Virudhunagar: The Heart of Tamil Nadu’s Heritage and Industry",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/VIRUTHUNAGAR/TEMPLE/1.SRIVILLIPUTHUR+ANDAL+TEMPLE.webp",
+                "attractPara": "Srivilliputhur Andal Temple",
+                "attractText": "Srivilliputhur Andal Temple is a revered Hindu temple dedicated to Goddess Andal..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/VIRUTHUNAGAR/WATER+FALLS/AYYANAR+KOVIL+FALLS.webp",
+                "attractPara": "Ayyanar Kovil Falls",
+                "attractText": "Ayyanar Kovil Falls is a beautiful natural waterfall situated near the Ayyanar Kovil..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/VIRUTHUNAGAR/WILD+LIFE/SRIVILLIPUTHUR+GRIZZED+SQUIRREL+WILDLIFE+SANCTUARY.webp",
+                "attractPara": "Srivilliputhur Grizzled Squirrel Wildlife Sanctuary",
+                "attractText": "Srivilliputhur Grizzled Squirrel Wildlife Sanctuary is a unique sanctuary dedicated to..."
+                
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/VIRUTHUNAGAR/TEMPLE/3.BHATHRA+KALIAMMAN+TEMPLE.webp",
+                "attractPara": "Bhathra Kaliamman Temple",
+                "attractText": "Bhathra Kaliamman Temple is dedicated to Goddess Bhathra Kaliamman, a powerful..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/VIRUTHUNAGAR/MUSEUM/GOVERNMENT+MUSEUM.jpg",
+                "attractPara": "Government Museum",
+                "attractText": "Government Museum in Virudhunagar, is a cultural hub showcasing the rich heritage..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/VIRUTHUNAGAR/TEMPLE/6.SRI+NINDRA+NARAYANYA+PERUMAL+TEMPLE.webp",
+                "attractPara": "Sri Nindra Narayanaya Perumal Temple",
+                "attractText": "Sri Nindra Narayanaya Perumal Temple, is a significant Vaishnavite temple dedicated to..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/VIRUTHUNAGAR/WATER+FALLS/RAKACHI+AMMAN+KOVIL+WATERFALLS.webp",
+                "attractPara": "Rakachi Amman Kovil Waterfalls",
+                "attractText": "Rakachi Amman Kovil Waterfalls  is a hidden gem nestled in the lap of nature..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/VIRUTHUNAGAR/TEMPLE/2.MADAVAR+VILAGAM+VAIDYANATHAR+SWAMY+TEMPLE.webp",
+                "attractPara": "Madavar Vilagam Vaidyanathar Swamy Temple",
+                "attractText": "Madavar Vilagam Vaidyanathar Swamy Temple is dedicated to Lord Vaidyanathar..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/VIRUTHUNAGAR/TEMPLE/7.SATHURAGIRI+SHIVAN+TEMPLE.webp",
+                "attractPara": "Sathuragiri Shivan Temple",
+                "attractText": "Sathuragiri Shivan Temple is nestled amidst the scenic beauty of the hills and is..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/VIRUTHUNAGAR/TEMPLE/8.PERUMAL+TEMPLE+RAJAPALAYAM.webp",
+                "attractPara": "Perumal Temple",
+                "attractText": "Perumal Temple in Rajapalayam is dedicated to Lord Vishnu in his Perumal form..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/VIRUTHUNAGAR/TEMPLE/9.KASI+VISWANATHAR+TEMPLE.webp",
+                "attractPara": "Kasi Viswanathar Temple",
+                "attractText": "Kasi Viswanathar Temple is a significant Hindu temple dedicated to Lord Shiva..."
+            }
+        ],
+        [
+            {
+                "title":"Pondicherry: The Charming French Heritage of Tamil Nadu",
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/pondichery/Beach/1+Promenade+beach.webp",
+                "attractPara": "Promenade Beach",
+                "attractText": "Promenade Beach is one of the most popular and scenic beaches in Puducherry, stretching along the Bay of Bengal..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/pondichery/museum/4.French+Institute+of+pondichery+museum.webp",
+                "attractPara": "French Institute of Pondicherry Museum",
+                "attractText": "The French Institute of Pondicherry Museum (Institut Français de Pondichéry) is a renowned research..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/pondichery/palace/2+The+Palace+of+French+Governors.webp",
+                "attractPara": "Palace of the French Governors",
+                "attractText": "The Palace of the French Governors, also known as Palais des Gouverneurs, is a historic landmark..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/pondichery/Beach/5+reppo-beach.webp",
+                "attractPara": "Reppo Beach",
+                "attractText": "Reppo Beach, also known as Reppo Fishing Harbour Beach, is a lesser-known and quiet beach..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/pondichery/palace/1+raj+niwas+palace.webp",
+                "attractPara": "Raj Niwas Palace",
+                "attractText": "Raj Niwas Palace in Puducherry is the official residence of the Lieutenant Governor..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/pondichery/palace/3+bharathi+park.webp",
+                "attractPara": "Bharathi Park",
+                "attractText": "Bharathi Park is a beautiful public park located in the heart of Puducherry, near the French Quarter..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/extra+img/image/immaculate+conception+cathedral+puducherry.jpg",
+                "attractPara": "Immaculate Conception Cathedral",
+                "attractText": "The Immaculate Conception Cathedral, located in Puducherry (Pondicherry), is a historic Roman Catholic..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/pondichery/Beach/2+Auroville+Beach.webp",
+                "attractPara": "Auroville Beach",
+                "attractText": "Auroville Beach is a serene and relatively less crowded beach located about 12 km from Puducherry in the Auroville..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/pondichery/Beach/4+Paradise+Beach.webp",
+                "attractPara": "Paradise Beach",
+                "attractText": "Paradise Beach is one of the most beautiful and secluded beaches in Puducherry, located about 8 km from the city center..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/pondichery/Beach/6+mahe+beach.webp",
+                "attractPara": "Mahe Beach",
+                "attractText": "Mahe Beach is located in Mahe, a picturesque town that is part of the Union Territory..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/pondichery/Beach/3+serenity-beach.webp",
+                "attractPara": "Serenity Beach",
+                "attractText": "Serenity Beach is a quiet and beautiful beach located around 10 km from Puducherry city, known for its calm atmosphere ..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/pondichery/museum/3.jawahar+toy+museum.webp",
+                "attractPara": "Jawahar Toy Museum",
+                "attractText": "Jawahar Toy Museum is a unique and charming museum located in Puducherry, showcasing a wide variety of traditional..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/pondichery/Temple/3+varatharaja+perumal+temple.webp",
+                "attractPara": "Varadaraja Perumal Temple",
+                "attractText": "The 'Varadaraja Perumal Temple' in Villianur, near Puducherry, is an ancient and significant Hindu temple dedicated to Lord Varadaraja..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/pondichery/Temple/5.+sri-gokilambal-thirukameshwara-temple.webp",
+                "attractPara": "Gokilambal Udanurai Thirukameshwarar Temple",
+                "attractText": "The Gokilambal Udanurai Thirukameshwarar Temple in Pondicherry is an ancient and sacred Hindu temple dedicated to Lord Shiva (Thirukameshwarar)..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/pondichery/museum/1.puduchery+museum.webp",
+                "attractPara": "Puducherry Museum",
+                "attractText": "Puducherry Museum is a cultural and historical museum located in the heart of Puducherry, near the Goubert Avenue..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/pondichery/Temple/2+Vedapureeswarar_temple.webp",
+                "attractPara": "Shri Vedapuriswarar Temple",
+                "attractText": "The Shri Vedapuriswarar Temple in Pondicherry is a historic Hindu temple dedicated to Lord Shiva. Located in the Villianur... "
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/pondichery/Temple/8+sengazhuneer+amman+temple.webp",
+                "attractPara": "Sengazhuneer Amman Temple",
+                "attractText": "Sengazhuneer Amman Temple is located in Puducherry, dedicated to Sengazhuneer Amman, a form of the Goddess Parvati..."
+            },
+            {
+                "image": "https://traveleasystorage.s3.eu-north-1.amazonaws.com/Full+District/pondichery/museum/2.sri+aurobindo+ashram+museum.webp",
+                "attractPara": "Sri Aurobindo Ashram",
+                "attractText": "Sri Aurobindo Ashram is a spiritual community in Puducherry, founded by the renowned philosopher and yogi Sri Aurobindo..."
+            }
+        ]      
+    ]
+}
