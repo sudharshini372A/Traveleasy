@@ -42,9 +42,7 @@ const DestData = () => {
             </div>
         )
     }
-    useEffect(() => {
-        document.title = `${name.charAt(0).toUpperCase() + name.slice(1)}-TravelEasy | Districts Spot | Guide for Travel to Make Easy`;
-    }, [name]);
+   
 
     useEffect(() => {
         window.scroll(0, 0)
